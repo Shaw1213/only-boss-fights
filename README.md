@@ -2,7 +2,7 @@
 
 # Only Boss Fights: The Fallen Knight
 
-A short 2D boss rush made in five days for the [DreamLayer Game Jam #1](https://itch.io/jam/dreamlayer-jam-1):
+A short 2D boss rush made for the [DreamLayer Game Jam #1](https://itch.io/jam/dreamlayer-jam-1):
 three fights against one villain in three forms, every character and arena made with
 [DreamLayer](https://dreamlayer.io), built in Unity 6 for the browser.
 
@@ -21,10 +21,9 @@ to see how the game was made, and anyone weighing DreamLayer for a game pipeline
 4. [What I'd ask DreamLayer to build](#what-id-ask-dreamlayer-to-build)
 5. [How the pipeline ran](#how-the-pipeline-ran)
 6. [The DreamLayer → Unity importer](#the-dreamlayer--unity-importer)
-7. [Dev notes: five days](#dev-notes-five-days)
-8. [What's in this repository](#whats-in-this-repository)
-9. [Run it yourself](#run-it-yourself)
-10. [Credits and licenses](#credits-and-licenses)
+7. [What's in this repository](#whats-in-this-repository)
+8. [Run it yourself](#run-it-yourself)
+9. [Credits and licenses](#credits-and-licenses)
 
 ---
 
@@ -232,28 +231,6 @@ Unity 6 project:
 - **`Tools~/`** holds the cleanup scripts: local background removal, drift, size drift, foot-locked timing.
 
 Full documentation, install steps and samples: [Assets/Editor/DreamLayer/README.md](Assets/Editor/DreamLayer/README.md).
-
----
-
-## Dev notes: five days
-
-The full devlog, with every decision, playtest, number and lesson, is [docs/devlog.md](docs/devlog.md). The short
-version:
-
-- **Day 1: a playable greybox.** Project, agent pipeline and WebGL deploy on day one. The boss rush concept (one villain,
-  many forms), a greybox Knight fight built and verified by the agent, and a first playtest: *"parry is hard to use"*.
-  The fix became the game's language: the pose says *what*, a glint 0.3 s before the hit says *when*, plus a clash
-  for players who attack into the hit.
-- **Day 2: references and tooling.** I researched before spending: a style test, an anime style board, then the hero
-  and the Knight locked together on one cast sheet. The importer was built and validated. Harvest (parry a spell to
-  keep it) went into the greybox. The first art pilot, and the first failed run sheet.
-- **Day 3: poses.** The smoothness batch (11 poses and a slash sheet whose impact frames land on the attack's active
-  frames), and walks that line up with the poses they start from.
-- **Day 4: the world.** Arenas and their phase-2 edits, the lobby and relics, Boss 1 finished, the flash counter, sound
-  and music, the King and the Unknown One designed and playable in greybox, the story, solid bodies, the name.
-- **Day 5: the King, the god, and shipping.** The King's art and his size problem, the Unknown One's art and his
-  tentacles, the lobby run that didn't make it, the ending illustration, the WebGL build and itch.io page, a
-  first-time experience that teaches in the fight, and walks for the last two forms.
 
 ---
 

@@ -17,7 +17,7 @@ devlog posts. DreamLayer-specific experiments (prompts, drift, credits) live in
 
 ---
 
-## 2026-10-07 (Wed) — Day 1
+## 2026-10-07 (Wed)
 
 ### Setup: an agent-driven Unity pipeline
 - Unity 6.6 (6000.6.4f1) project, driven from Claude Code through Unity's official CLI: the agent
@@ -141,7 +141,7 @@ devlog posts. DreamLayer-specific experiments (prompts, drift, credits) live in
 
 ---
 
-## 2026-10-08 (Thu) — Day 2
+## 2026-10-08 (Thu)
 
 ### Researched how to use an image API for game assets, before spending
 - Two research passes: DreamLayer's own material (all three blog posts, docs, the agent plugin's
@@ -389,7 +389,7 @@ devlog posts. DreamLayer-specific experiments (prompts, drift, credits) live in
 - **Polish compiled and verified:** slash arcs, eased squash/lean, idle breathing and dash afterimages
   all run; every combat bot check is unchanged.
 
-## 2026-10-09 (Fri) — Day 3
+## 2026-10-09 (Fri)
 
 ### The smoothness batch lands (13.9 credits, 69.9 left)
 - **11 new poses and a 512 px light-slash sheet,** all wired and checked in the Animation Gym:
@@ -427,7 +427,7 @@ devlog posts. DreamLayer-specific experiments (prompts, drift, credits) live in
 - Checked in the Animation Gym (every clip has a sprite; captures in `docs/media/light1-walk-fix.png`).
   DreamLayer notes: entry 09.
 
-## 2026-10-10 (Sat) — Day 4
+## 2026-10-10 (Sat)
 
 ### The world gets its art (6 credits, 60.6 left)
 - **Boss 1's arena:** the ruined hall of the sun knights (generated 16:9), with the knight's own sun emblem on
@@ -754,7 +754,7 @@ devlog posts. DreamLayer-specific experiments (prompts, drift, credits) live in
   GUI styles, and the new subtitle style came back empty (two errors on the title screen). Fixed so the styles
   rebuild if any is missing, and I now check Play mode before every recompile, not only before scene changes.
 
-## 2026-10-11 (Sun) — Day 5
+## 2026-10-11 (Sun)
 
 ### The King's art: reference, 7 poses, the throne room (13 credits)
 - Shawn approved ~15 credits. **Reference (4 credits):** t1 had a floor-length fur cape; Shawn rejected it ("hard to make
@@ -1027,7 +1027,8 @@ devlog posts. DreamLayer-specific experiments (prompts, drift, credits) live in
 - **The README** ties the game, how DreamLayer was used (60 assets in the game, 99 credits, 74 requests), what worked
   (identity, walks 6 of 6, composites, object counts) and what didn't (the lobby run in three tries, size drift
   inside and between sheets, cycles that travel, extra props), what I'd ask DreamLayer to build, how the pipeline
-  ran, and the five days of dev notes together.
+  ran together. (A day-by-day dev-notes section was cut at Shawn's request: "I did not make it in 5 days"; the
+  devlog's headers are plain dates now, not "Day 1-5".)
 - **README art (4.3 credits):** a header that's an edit of a composite (the hero and the villain's three forms on a
   sprite-sheet grid; first try, title added locally), and a fresh `idle` preset sheet as the importer's sample (first
   try; it grew a second sword on the hero's back in 5 of 8 frames, dogfooding entry 24). Balance 1.0.

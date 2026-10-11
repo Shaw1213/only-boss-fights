@@ -802,7 +802,7 @@ what it cost. **Every friction point ends with a proposed fix or feature.**
 - **Date / assets:** 2026-10-11 · `Assets/Art/DreamLayer/Characters/King/king_walk.zip`,
   `Assets/Art/DreamLayer/Characters/Final/final_walk.zip`
 - **Goal:** the King and the Unknown One walk toward the hero instead of sliding in their idle poses (the Knight got
-  his walk on Day 4). Played at gameplay size, starting from the idle with no visible pop.
+  his walk on Oct 10). Played at gameplay size, starting from the idle with no visible pop.
 - **Reference:** each boss's approved form reference, cut out and placed left of center on a white square canvas with
   room in front (`Tools/make_walk_ref.py`; the Unknown One at 68% of the height for his claw arm's reach).
 - **Operation:** sprite, custom animation prompt, loop, 8 frames, 512 px, `background: keep`.
