@@ -1,0 +1,68 @@
+{
+  "source_zip": "hero_lobby_run.zip",
+  "frames": 7,
+  "order": [
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "floor_row": 413,
+  "boot_rows": 37,
+  "travel_px": [
+    30,
+    30,
+    30,
+    30,
+    30,
+    0,
+    0
+  ],
+  "landing_lift_px": [
+    0,
+    0,
+    0,
+    24,
+    0,
+    0,
+    1
+  ],
+  "match_scores": [
+    0.0,
+    0.0,
+    0.0,
+    0.248,
+    0.927,
+    0.954,
+    0.971
+  ],
+  "estimated": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "total_travel_px": 150,
+  "authored_durations_ms": [
+    630,
+    630,
+    620,
+    620,
+    630,
+    630,
+    660
+  ],
+  "durations_ms": [
+    825,
+    825,
+    825,
+    825,
+    825,
+    147,
+    148
+  ],
+  "note": "durations proportional to planted-foot travel to the next frame (min share 0.25 of the mean)"
+}

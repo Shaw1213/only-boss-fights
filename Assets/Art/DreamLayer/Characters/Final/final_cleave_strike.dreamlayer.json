@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Final/final_cleave_strike.png",
+  "source": "ArtRaw/final/final-cleave-strike.fixed.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "aef3f5cc-927e-45ec-8929-3a143f97dc71",
+  "idempotency_key": "dlj-final-cleave-strike-10110307-t1",
+  "note": "Hollow Cleave / Bind Strike impact (drawn floor shadow removed locally; drawn 22% big: crown, knee, boot)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 122.0,
+    "teal_blade_px": null,
+    "scale": 0.4135,
+    "anchor_x": 360.0,
+    "output_size": [
+      1196,
+      740
+    ],
+    "enclosed_gaps_removed": 106887
+  }
+}

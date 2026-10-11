@@ -1,0 +1,13 @@
+{
+  "execution_id": "bc4202b1-9540-4e85-8995-4157ea651520",
+  "conversation_id": "0426c655-cae3-4b8d-81cd-1534feba55c4",
+  "status": "completed",
+  "asset": {
+    "asset_id": "304b5407-8204-4c71-a077-7202acc5930d",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/304b5407-8204-4c71-a077-7202acc5930d/asset"
+  },
+  "question": null,
+  "last_event_id": "14677",
+  "idempotency_key": "dlj-knight-lunge-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-lunge.png"
+}

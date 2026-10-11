@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/King/king_defeated.png",
+  "source": "ArtRaw/king/king-defeated.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "ec8cc4c2-acbc-40dd-8889-9520c707d22f",
+  "idempotency_key": "dlj-king-defeated-10110002-t1",
+  "note": "defeated, kneeling (drawn 14% big: 85% of his standing height before, about 73% now)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 114.0,
+    "teal_blade_px": 93.1,
+    "scale": 0.5672,
+    "anchor_x": 482.9,
+    "output_size": [
+      1208,
+      676
+    ],
+    "enclosed_gaps_removed": 4788
+  }
+}

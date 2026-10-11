@@ -1,0 +1,21 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Hero/hero_stand.png",
+  "source": "ArtRaw/cast/hero-master.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "c91cdf98-2289-4485-94f9-0ae481a31509",
+  "idempotency_key": "dlj-cast-sheet-002",
+  "note": "hero master standing (lobby / cutscenes)",
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 89.0,
+    "teal_blade_px": 832.2,
+    "scale": 0.4717,
+    "anchor_x": 304.4,
+    "output_size": [
+      444,
+      804
+    ],
+    "enclosed_gaps_removed": 15315
+  }
+}

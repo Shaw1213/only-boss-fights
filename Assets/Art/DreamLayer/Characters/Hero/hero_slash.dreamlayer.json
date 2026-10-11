@@ -1,0 +1,21 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Hero/hero_slash.png",
+  "source": "ArtRaw/hero/hero-slash-001.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "2a251be8-91bd-4fd5-a463-f2621efb0691",
+  "idempotency_key": "dlj-hero-slash-001",
+  "note": "light slash, active frame",
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 122.0,
+    "teal_blade_px": 804.0,
+    "scale": 0.3441,
+    "anchor_x": 721.4,
+    "output_size": [
+      840,
+      628
+    ],
+    "enclosed_gaps_removed": 0
+  }
+}

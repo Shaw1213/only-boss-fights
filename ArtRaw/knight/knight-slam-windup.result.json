@@ -1,0 +1,13 @@
+{
+  "execution_id": "54600c2a-28c0-49ef-ae3b-a2db2702425a",
+  "conversation_id": "2189e4f6-a243-4e33-abfc-769f7fc25d44",
+  "status": "completed",
+  "asset": {
+    "asset_id": "3deeaaee-2513-44e2-a67d-5b72c76c6d41",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/3deeaaee-2513-44e2-a67d-5b72c76c6d41/asset"
+  },
+  "question": null,
+  "last_event_id": "18154",
+  "idempotency_key": "dlj-knight-slam-windup-10100248-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-slam-windup.png"
+}

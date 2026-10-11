@@ -1,0 +1,13 @@
+{
+  "execution_id": "d590eca2-9b56-4a3b-b764-5a75ef1a9032",
+  "conversation_id": "6c63cb1e-9e16-463b-8d9b-f9de2fc6670a",
+  "status": "completed",
+  "asset": {
+    "asset_id": "09462150-dbc0-479a-867f-b987d01062ec",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/09462150-dbc0-479a-867f-b987d01062ec/asset"
+  },
+  "question": null,
+  "last_event_id": "17996",
+  "idempotency_key": "dlj-relics-10100149-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\world\\relics.png"
+}

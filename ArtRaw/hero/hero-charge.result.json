@@ -1,0 +1,13 @@
+{
+  "execution_id": "ffb3d22c-3f4f-47af-a870-0785f50719cd",
+  "conversation_id": "beeceee2-928a-4888-9dd0-102066ddeceb",
+  "status": "completed",
+  "asset": {
+    "asset_id": "68e734d7-d05e-4229-816e-e913027c1696",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/68e734d7-d05e-4229-816e-e913027c1696/asset"
+  },
+  "question": null,
+  "last_event_id": "14669",
+  "idempotency_key": "dlj-hero-charge-t6",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-charge.png"
+}

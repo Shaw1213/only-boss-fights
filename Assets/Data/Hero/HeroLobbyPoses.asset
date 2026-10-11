@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee2e6c86819c3548a6390a8e0922416, type: 3}
+  m_Name: HeroLobbyPoses
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.PoseSet
+  idleWorldHeight: 2.079602
+  idle: {fileID: 21300000, guid: bbedcf057e5e9aa4b9e9c8433665930f, type: 3}
+  move:
+    frames:
+    - {fileID: 1615419758, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    - {fileID: 380140004, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    - {fileID: 1276043126, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    - {fileID: -1033325078, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    - {fileID: -1006518440, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    - {fileID: -489835286, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    - {fileID: -1692197523, guid: f40771b56c8bb4c4180f02af4023afa2, type: 3}
+    frameSeconds:
+    - 0.334
+    - 0.73
+    - 0.545
+    - 0.83
+    - 0.607
+    - 0.743
+    - 0.631
+    loop: 1
+    scale: 2.43
+    footfallsPerLoop: 4
+  moveCycleSpeed: 0.5370551
+  idleBreathAmount: 0.015
+  idleBreathRate: 1.7
+  dash: {fileID: 0}
+  charge: {fileID: 0}
+  parry: {fileID: 0}
+  hurt: {fileID: 0}
+  staggered: {fileID: 0}
+  dead: {fileID: 0}
+  phaseChange: {fileID: 0}

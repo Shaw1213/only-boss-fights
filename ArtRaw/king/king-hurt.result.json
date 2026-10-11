@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "65e34644-20e9-467c-a798-acccf7cb17b3",
+  "conversation_id": "672389e0-7e6c-4443-8794-66275b190d86",
+  "status": "completed",
+  "asset": {
+    "asset_id": "fcf76d27-0e28-4b10-8360-1a49213050a2",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/fcf76d27-0e28-4b10-8360-1a49213050a2/asset"
+  },
+  "question": null,
+  "last_event_id": "21385",
+  "idempotency_key": "dlj-king-hurt-10110002-t2",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-hurt.png"
+}

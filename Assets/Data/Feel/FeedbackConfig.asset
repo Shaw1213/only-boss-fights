@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0f3df414439fac478da146a266cf016, type: 3}
+  m_Name: FeedbackConfig
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.FeedbackConfig
+  hitFlashColor: {r: 1, g: 1, b: 1, a: 1}
+  hitFlashFrames: 2
+  parry:
+    hitStopFrames: 9
+    trauma: 0.35
+    flashColor: {r: 0.4, g: 1, b: 1, a: 1}
+    flashFrames: 6
+  heroHurt:
+    hitStopFrames: 6
+    trauma: 0.45
+    flashColor: {r: 1, g: 0.25, b: 0.25, a: 1}
+    flashFrames: 4
+  bossStaggered:
+    hitStopFrames: 6
+    trauma: 0.35
+    flashColor: {r: 1, g: 0.9, b: 0.4, a: 1}
+    flashFrames: 6
+  phaseChange:
+    hitStopFrames: 30
+    trauma: 0.5
+    flashColor: {r: 1, g: 1, b: 1, a: 1}
+    flashFrames: 10
+  bossKillSlowScale: 0.25
+  bossKillSlowSeconds: 0.6
+  bossKillTrauma: 0.8

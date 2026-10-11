@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e57dc4c5073b9d4ca7b9312db23a51d, type: 3}
+  m_Name: B1_Move_LungeThrust
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.BossMove
+  steps:
+  - {fileID: 11400000, guid: 3bdaba322566086448933ad2a8d3890b, type: 2}
+  preferredRange: 6.5
+  rangeTolerance: 2
+  weight: 0.8
+  fullParryStaggers: 0

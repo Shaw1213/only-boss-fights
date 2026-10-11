@@ -1,0 +1,18 @@
+{
+  "source_zip": "Assets/Art/DreamLayer/Characters/King/king_walk.zip",
+  "imported_utc": "2026-10-11T13:05:35.7272328Z",
+  "action": "custom",
+  "frames": 8,
+  "loop": true,
+  "total_seconds": 5.04,
+  "durations_ms": [620, 630, 630, 620, 620, 630, 630, 660],
+  "durations_60fps_frames": [37, 38, 38, 37, 37, 38, 38, 40],
+  "pivot": [0.34, 0.121],
+  "pixels_per_unit": 256,
+  "feet_baseline_spread_px": 2,
+  "horizontal_center_spread_px": 23,
+  "sheet": "Assets/Art/DreamLayer/Characters/King/king_walk/king_walk_sheet.png",
+  "clip": "Assets/Art/DreamLayer/Characters/King/king_walk/king_walk.anim",
+  "controller": "Assets/Art/DreamLayer/Characters/King/king_walk/king_walk.controller",
+  "warnings": ["duration_ms says 5042 ms but frame_durations_ms sum to 5040 ms; using the per-frame values.", "alignment is \"source_canvas\"; measured a feet pivot anyway because Characters/ uses feet pivots.", "pivot x 0.34 from atlas \"pivot_x\" (measured 0.34)."]
+}

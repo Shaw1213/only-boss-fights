@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "5221853c-739f-4fc8-adb5-6907c7123aa4",
+  "conversation_id": "61442bb1-c7b4-428f-9089-4ec47911e8b5",
+  "status": "completed",
+  "asset": {
+    "asset_id": "e413ac49-3913-4b5a-a455-7b57c064d099",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/e413ac49-3913-4b5a-a455-7b57c064d099/asset"
+  },
+  "question": null,
+  "last_event_id": "21164",
+  "idempotency_key": "dlj-king-ref-10102341-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-ref.png"
+}

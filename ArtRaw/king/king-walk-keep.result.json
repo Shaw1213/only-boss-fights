@@ -1,0 +1,13 @@
+{
+  "execution_id": "8f9878b5-89c8-415c-b950-eb8805c622ec",
+  "conversation_id": "c1a449ca-f6d5-42b3-b25c-220527221101",
+  "status": "completed",
+  "asset": {
+    "asset_id": "8907319d-0e25-4b2e-a7ad-840d54bbfdcc",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/8907319d-0e25-4b2e-a7ad-840d54bbfdcc/asset"
+  },
+  "question": null,
+  "last_event_id": "22793",
+  "idempotency_key": "dlj-king-walk-keep-10110653-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-walk-keep.zip"
+}

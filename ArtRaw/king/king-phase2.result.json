@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "2a8870c8-50f4-415d-9cee-95a26d802d71",
+  "conversation_id": "9defa434-3cde-48b9-b150-237c12930bdf",
+  "status": "completed",
+  "asset": {
+    "asset_id": "5d254953-3d68-4567-81bb-0f68e7e145d7",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/5d254953-3d68-4567-81bb-0f68e7e145d7/asset"
+  },
+  "question": null,
+  "last_event_id": "21369",
+  "idempotency_key": "dlj-king-phase2-10110002-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-phase2.png"
+}

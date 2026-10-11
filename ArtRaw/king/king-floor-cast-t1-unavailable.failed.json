@@ -1,0 +1,8 @@
+﻿node.exe : {"error":{"code":"UPSTREAM_UNAVAILABLE","reason":"temporarily_unavailable","message":"The service is tempora
+rily unavailable. Please try again.","retryable":true,"request_id":"23dc7607-1d5d-4909-83e3-ab5618391151"}}
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({"error":{"code...ab5618391151"}}:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Final/final_floor_cast.png",
+  "source": "ArtRaw/final/final-floor-cast.fixed.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "bd20d22d-8db7-42bd-9be6-527c0e3fd703",
+  "idempotency_key": "dlj-final-floor-cast-10110307-t1",
+  "note": "Grasping Ground / Bind / Procession / Maw: the claw sunk into the floor (drawn shadow pool and red burst erased locally)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 99.0,
+    "teal_blade_px": null,
+    "scale": 0.5096,
+    "anchor_x": 632.0,
+    "output_size": [
+      1040,
+      916
+    ],
+    "enclosed_gaps_removed": 40644
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "execution_id": "767e1799-28a1-4a19-9a4c-14665c9bcdc5",
+  "conversation_id": "48ad6b83-c5e3-4b4e-be4f-d6bb3ac39d39",
+  "status": "completed",
+  "asset": {
+    "asset_id": "64035654-2213-48a1-9839-f01a960a01f5",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/64035654-2213-48a1-9839-f01a960a01f5/asset"
+  },
+  "question": null,
+  "last_event_id": "15475",
+  "idempotency_key": "dlj-hero-dash-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-dash.png"
+}

@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Knight/knight_recovery.png",
+  "source": "ArtRaw/knight/knight-recovery.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "2402d171-f1ff-46aa-9d73-23599bdca2c8",
+  "idempotency_key": "dlj-knight-recovery-t3",
+  "note": "recovery / punish window (facing left: mirrored; ruler from body height vs. the standing idle)",
+  "mirrored": true,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 277.0,
+    "teal_blade_px": null,
+    "scale": 0.4242,
+    "anchor_x": 483.8,
+    "output_size": [
+      684,
+      772
+    ],
+    "enclosed_gaps_removed": 9816
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "execution_id": "1046cfce-38ec-4073-9742-c3b6d78819dd",
+  "conversation_id": "cbfa0788-aadf-423e-b893-6f0e2a60c628",
+  "status": "completed",
+  "asset": {
+    "asset_id": "9d38a4de-040b-4eaa-9a34-4859710a7ce1",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/9d38a4de-040b-4eaa-9a34-4859710a7ce1/asset"
+  },
+  "question": null,
+  "last_event_id": "22222",
+  "idempotency_key": "dlj-final-defeated-10110307-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\final\\final-defeated.png"
+}

@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Knight/knight_phase2.png",
+  "source": "ArtRaw/knight/knight-phase2.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "8b6d7fd6-aff0-4d3f-893a-ced90bc0a2fa",
+  "idempotency_key": "dlj-knight-phase2-10100155-t2",
+  "note": "phase-2 transformation: same idle, armor cracked and scorched (world art batch); ruler from body height vs. the standing idle (knight-ref draws a bigger helm than the master)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 176.0,
+    "teal_blade_px": null,
+    "scale": 0.6676,
+    "anchor_x": 452.1,
+    "output_size": [
+      696,
+      964
+    ],
+    "enclosed_gaps_removed": 4861
+  }
+}

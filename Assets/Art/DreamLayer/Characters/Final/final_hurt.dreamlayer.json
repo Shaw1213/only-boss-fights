@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Final/final_hurt.png",
+  "source": "ArtRaw/final/final-hurt.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "7468d27c-ee22-4042-b684-fcc585c2faec",
+  "idempotency_key": "dlj-final-hurt-10110307-t1",
+  "note": "hurt / staggered: reeling, the claw thrown up (drawn 22% big: helm, crown, chest eye)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 122.0,
+    "teal_blade_px": null,
+    "scale": 0.4135,
+    "anchor_x": 883.0,
+    "output_size": [
+      872,
+      768
+    ],
+    "enclosed_gaps_removed": 175541
+  }
+}

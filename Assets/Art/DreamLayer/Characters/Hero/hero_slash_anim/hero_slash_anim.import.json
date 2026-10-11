@@ -1,0 +1,18 @@
+{
+  "source_zip": "Assets/Art/DreamLayer/Characters/Hero/hero_slash_anim.zip",
+  "imported_utc": "2026-10-10T10:38:12.3369214Z",
+  "action": "custom",
+  "frames": 7,
+  "loop": false,
+  "total_seconds": 5.04,
+  "durations_ms": [830, 840, 830, 830, 840, 830, 40],
+  "durations_60fps_frames": [50, 50, 50, 50, 50, 50, 2],
+  "pivot": [0.359, 0.158],
+  "pixels_per_unit": 256,
+  "feet_baseline_spread_px": 0,
+  "horizontal_center_spread_px": 76,
+  "sheet": "Assets/Art/DreamLayer/Characters/Hero/hero_slash_anim/hero_slash_anim_sheet.png",
+  "clip": "Assets/Art/DreamLayer/Characters/Hero/hero_slash_anim/hero_slash_anim.anim",
+  "controller": "Assets/Art/DreamLayer/Characters/Hero/hero_slash_anim/hero_slash_anim.controller",
+  "warnings": ["duration_ms says 5042 ms but frame_durations_ms sum to 5040 ms; using the per-frame values.", "alignment is \"source_canvas\"; measured a feet pivot anyway because Characters/ uses feet pivots."]
+}

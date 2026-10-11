@@ -1,0 +1,13 @@
+{
+  "execution_id": "72db5486-c85b-42c8-9583-6f5bdaa27a4a",
+  "conversation_id": "95910c2f-d20e-4f07-bb1f-2ca171b7c40b",
+  "status": "completed",
+  "asset": {
+    "asset_id": "95174735-f948-460f-aade-63217136cd1d",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/95174735-f948-460f-aade-63217136cd1d/asset"
+  },
+  "question": null,
+  "last_event_id": "22867",
+  "idempotency_key": "dlj-readme-hero-idle-keep-10110728-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\readme\\hero-idle-keep.zip"
+}

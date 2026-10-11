@@ -1,0 +1,13 @@
+{
+  "execution_id": "6ffcd5ff-9469-4d30-bc86-fd69286a77cd",
+  "conversation_id": "519b9c80-346a-4128-8e0f-50f5d89962f4",
+  "status": "completed",
+  "asset": {
+    "asset_id": "6ee1e4f0-5964-4e73-bf65-aabbdcd99362",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/6ee1e4f0-5964-4e73-bf65-aabbdcd99362/asset"
+  },
+  "question": null,
+  "last_event_id": "15557",
+  "idempotency_key": "dlj-knight-hurt-r2-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-hurt-r2.png"
+}

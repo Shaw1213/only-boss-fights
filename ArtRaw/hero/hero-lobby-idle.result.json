@@ -1,0 +1,13 @@
+{
+  "execution_id": "c4039084-4c64-4395-8aeb-355438bcb21c",
+  "conversation_id": "b44bea84-5440-4041-a690-a81e62293a5c",
+  "status": "completed",
+  "asset": {
+    "asset_id": "d6efc89a-166d-424b-92cb-f07ac9555de8",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/d6efc89a-166d-424b-92cb-f07ac9555de8/asset"
+  },
+  "question": null,
+  "last_event_id": "18261",
+  "idempotency_key": "dlj-hero-lobby-idle-10100354-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-lobby-idle.png"
+}

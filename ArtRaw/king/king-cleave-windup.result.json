@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "fbd49656-9741-4e5a-88a0-b45b1e58f50a",
+  "conversation_id": "7c49c02e-96e7-433c-af97-0facca00503c",
+  "status": "completed",
+  "asset": {
+    "asset_id": "6c569aaa-a634-4ef3-bc01-b230d0109749",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/6c569aaa-a634-4ef3-bc01-b230d0109749/asset"
+  },
+  "question": null,
+  "last_event_id": "21216",
+  "idempotency_key": "dlj-king-cleave-windup-10102355-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-cleave-windup.png"
+}

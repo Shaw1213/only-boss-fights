@@ -1,0 +1,18 @@
+{
+  "source_zip": "Assets/Art/DreamLayer/Characters/Hero/hero_run.zip",
+  "imported_utc": "2026-10-10T10:38:12.0603364Z",
+  "action": "run",
+  "frames": 7,
+  "loop": true,
+  "total_seconds": 2,
+  "durations_ms": [290, 280, 290, 280, 290, 280, 290],
+  "durations_60fps_frames": [17, 17, 17, 17, 17, 17, 17],
+  "pivot": [0.491, 0.121],
+  "pixels_per_unit": 256,
+  "feet_baseline_spread_px": 0,
+  "horizontal_center_spread_px": 8,
+  "sheet": "Assets/Art/DreamLayer/Characters/Hero/hero_run/hero_run_sheet.png",
+  "clip": "Assets/Art/DreamLayer/Characters/Hero/hero_run/hero_run.anim",
+  "controller": "Assets/Art/DreamLayer/Characters/Hero/hero_run/hero_run.controller",
+  "warnings": []
+}

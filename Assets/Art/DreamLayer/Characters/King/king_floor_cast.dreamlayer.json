@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/King/king_floor_cast.png",
+  "source": "ArtRaw/king/king-floor-cast.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "13d8e8b5-6dd8-4370-ad8f-ba6405fd9b13",
+  "idempotency_key": "dlj-king-floor-cast-10110002-t1",
+  "note": "Glacier Rise / Twin Rise / Procession: the sword planted in the floor (drawn 12% big: helm, knees, sabatons)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 112.0,
+    "teal_blade_px": 80.0,
+    "scale": 0.5773,
+    "anchor_x": 368.1,
+    "output_size": [
+      860,
+      852
+    ],
+    "enclosed_gaps_removed": 137527
+  }
+}

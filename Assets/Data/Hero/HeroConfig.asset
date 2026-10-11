@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41010e050d168624fa25724f09623da9, type: 3}
+  m_Name: HeroConfig
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.HeroConfig
+  maxHealth: 7
+  hurtInvulnerableSeconds: 1
+  hitstunFrames: 12
+  hurtKnockbackSpeed: 7
+  moveSpeed: 6
+  acceleration: 90
+  deceleration: 70
+  dashStartupFrames: 2
+  dashInvulnerableFrames: 12
+  dashRecoveryFrames: 8
+  dashDistance: 3.5
+  dashCooldownSeconds: 0.4
+  dedicatedParryEnabled: 1
+  parryWindowFrames: 14
+  parryWhiffRecoveryFrames: 16
+  attackParryEnabled: 1
+  attackParryWindowFrames: 10
+  riposteWindowSeconds: 0.5
+  flashCounterWindowSeconds: 0.7
+  flashCounter: {fileID: 11400000, guid: e431c858de857e1419f3ce4c0b0f2c87, type: 2}
+  flashCounterRange: 5
+  flashCounterGap: 0.35
+  lightCombo:
+  - {fileID: 11400000, guid: f2caa4126c2aea04db58b49ae6e39fc0, type: 2}
+  - {fileID: 11400000, guid: 406c72fac302fe34fb154f15a780819f, type: 2}
+  - {fileID: 11400000, guid: b4cd35fa4adf06947a8eec7f0790a81e, type: 2}
+  comboResetSeconds: 0.3
+  chargedHeavy: {fileID: 11400000, guid: c001c8d1284bea9499d672f5888b9c9f, type: 2}
+  chargeHoldSeconds: 0.35
+  riposte: {fileID: 11400000, guid: 25e04aa5f19b29a4f91f4d36e2a5bf00, type: 2}
+  dashAttackEnabled: 1
+  dashAttack: {fileID: 11400000, guid: a38f093dea43d23488b9ea0e67b73f52, type: 2}
+  dashAttackWindowSeconds: 0.12
+  harvestEnabled: 1
+  elementWave: {fileID: 11400000, guid: 67b3e1224894f3941a0383f9c1d31a7d, type: 2}
+  fireDamageMultiplier: 1.5
+  fireBurnTicks: 3
+  fireBurnDamage: 1
+  fireBurnIntervalSeconds: 0.8
+  iceFreezeSeconds: 1.5
+  woodRootSeconds: 2.5
+  woodHeal: 1
+  inputBufferSeconds: 0.12
+  hurtboxOffset: {x: 0, y: 0.9}
+  hurtboxSize: {x: 0.8, y: 1.8}

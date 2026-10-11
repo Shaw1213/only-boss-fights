@@ -1,0 +1,13 @@
+{
+  "execution_id": "ebfcd1d4-9056-4da3-beb8-f9ffd48b10bb",
+  "conversation_id": "51ea6dc7-1cd6-4887-8c15-413a5c480b97",
+  "status": "completed",
+  "asset": {
+    "asset_id": "4bf56f5e-b09a-4822-95a5-1656e5596b37",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/4bf56f5e-b09a-4822-95a5-1656e5596b37/asset"
+  },
+  "question": null,
+  "last_event_id": "15270",
+  "idempotency_key": "dlj-hero-windup-t2",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-windup.png"
+}

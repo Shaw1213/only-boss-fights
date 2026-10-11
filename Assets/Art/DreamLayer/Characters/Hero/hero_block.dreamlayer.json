@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Hero/hero_block.png",
+  "source": "ArtRaw/hero/hero-block.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "f632a443-1ca7-4179-971c-7d9fdc4503aa",
+  "idempotency_key": "dlj-hero-block-t2",
+  "note": "guard / parry (chin hidden by the blade: batch-norm ruler)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 117.0,
+    "teal_blade_px": 1309.1,
+    "scale": 0.3588,
+    "anchor_x": 642.6,
+    "output_size": [
+      728,
+      652
+    ],
+    "enclosed_gaps_removed": 6693
+  }
+}

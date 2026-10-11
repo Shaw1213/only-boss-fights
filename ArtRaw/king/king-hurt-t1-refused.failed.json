@@ -1,0 +1,9 @@
+﻿node.exe : {"error":{"code":"generation_failed","reason":"content_refused","message":"The request could not be complete
+d under the service policy.","retryable":false,"request_id":"15ce35b3-c8ef-4f79-8bab-572b8833c619","idempotency_key":"d
+lj-king-hurt-10110002-t1","execution_id":"25b33eb1-7a07-4e5a-9171-c5464f911d31"}}
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ({"error":{"code...c5464f911d31"}}:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 

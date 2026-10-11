@@ -1,0 +1,21 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Knight/knight_cleave_windup.png",
+  "source": "ArtRaw/knight/knight-cleave-windup-001.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "3b76b9a1-f09a-40ac-9f4d-2a8dcb3bc28c",
+  "idempotency_key": "dlj-knight-cleave-windup-001",
+  "note": "overhead cleave windup",
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 192.0,
+    "teal_blade_px": null,
+    "scale": 0.612,
+    "anchor_x": 959.6,
+    "output_size": [
+      1184,
+      980
+    ],
+    "enclosed_gaps_removed": 11764
+  }
+}

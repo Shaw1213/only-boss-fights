@@ -1,0 +1,26 @@
+{
+  "asset": "ArtRaw/knight/knight-test-001.png",
+  "purpose": "Knight look / art-style TEST (not a final design; art style still undecided)",
+  "operation": "text_to_image",
+  "prompt_file": "ArtRaw/knight/knight-test-001.prompt.txt",
+  "reference_image": null,
+  "requested_aspect_ratio": "3:4",
+  "output_size": [2048, 2048],
+  "execution_id": "c91503de-9a38-40f0-940d-d9ffbe54f241",
+  "conversation_id": "aa7f78c0-7546-4f86-9534-403a3db24aa4",
+  "asset_id": "36df7b52-7a94-44b3-84e4-6b78fc3d4ead",
+  "idempotency_key": "dlj-knight-test-001",
+  "timestamp": "2026-10-08",
+  "credits": 1,
+  "balance_after": 99,
+  "seconds_to_result": 23.4,
+  "client": "dreamlayer CLI 0.4.0-beta.4",
+  "local_cleanup": {
+    "tool": "Tools/clean_cutout.py",
+    "output": "ArtRaw/knight/knight-test-001.cut.png",
+    "output_size": [728, 1460],
+    "seconds": 0.7,
+    "credits": 0
+  },
+  "verdict": "rejected as a style by Shawn (too clean/generic, flat-vector look); kept for reference only"
+}

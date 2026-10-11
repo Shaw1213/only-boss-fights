@@ -1,0 +1,13 @@
+{
+  "execution_id": "78e8a481-d2d1-4000-8c02-25e09ed4ec9a",
+  "conversation_id": "ab5d11ab-d9ea-4662-8e62-db1e8a7a4722",
+  "status": "completed",
+  "asset": {
+    "asset_id": "647e7793-ab89-4096-8333-1d36ea772986",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/647e7793-ab89-4096-8333-1d36ea772986/asset"
+  },
+  "question": null,
+  "last_event_id": "18178",
+  "idempotency_key": "dlj-knight-flame-swing-10100250-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-flame-swing.png"
+}

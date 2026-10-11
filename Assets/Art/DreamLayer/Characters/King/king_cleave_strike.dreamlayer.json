@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/King/king_cleave_strike.png",
+  "source": "ArtRaw/king/king-cleave-strike.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "746e72ea-8510-474b-99d6-8f26926a4492",
+  "idempotency_key": "dlj-king-cleave-strike-10110002-t1",
+  "note": "Royal Cleave impact (drawn floor shadow removed; drawn 22% big: helm, crown, sabatons)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 122.0,
+    "teal_blade_px": 333.4,
+    "scale": 0.53,
+    "anchor_x": 544.3,
+    "output_size": [
+      1016,
+      768
+    ],
+    "enclosed_gaps_removed": 217227
+  }
+}

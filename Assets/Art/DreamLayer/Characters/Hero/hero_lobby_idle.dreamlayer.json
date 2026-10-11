@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Hero/hero_lobby_idle.png",
+  "source": "ArtRaw/hero/hero-lobby-idle.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "c4039084-4c64-4395-8aeb-355438bcb21c",
+  "idempotency_key": "dlj-hero-lobby-idle-10100354-t1",
+  "note": "lobby: relaxed, sword sheathed on his back (the walk sheet is generated from it); ruler eye line to chin",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 105.0,
+    "teal_blade_px": 122.4,
+    "scale": 0.3998,
+    "anchor_x": 283.0,
+    "output_size": [
+      236,
+      760
+    ],
+    "enclosed_gaps_removed": 215
+  }
+}

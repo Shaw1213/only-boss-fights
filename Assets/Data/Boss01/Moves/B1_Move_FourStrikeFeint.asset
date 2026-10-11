@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e57dc4c5073b9d4ca7b9312db23a51d, type: 3}
+  m_Name: B1_Move_FourStrikeFeint
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.BossMove
+  steps:
+  - {fileID: 11400000, guid: 85466499408a4cf4b88e810632274591, type: 2}
+  - {fileID: 11400000, guid: 00e97077db2ac144c914265ef4dbe383, type: 2}
+  - {fileID: 11400000, guid: 87a5b3866b3688b459a8e7767013825d, type: 2}
+  - {fileID: 11400000, guid: 9044f1b55e2e0b9458c0f683ded4da2f, type: 2}
+  preferredRange: 2.4
+  rangeTolerance: 0.8
+  weight: 1
+  fullParryStaggers: 1

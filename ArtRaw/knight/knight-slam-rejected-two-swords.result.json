@@ -1,0 +1,13 @@
+{
+  "execution_id": "6ec6d6b6-c3f2-495e-b412-bf3c9b727647",
+  "conversation_id": "a6ee4612-a717-432b-9b96-d04a933bca02",
+  "status": "completed",
+  "asset": {
+    "asset_id": "60a2b44e-3fda-4d08-bba7-9c2c5d0f047b",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/60a2b44e-3fda-4d08-bba7-9c2c5d0f047b/asset"
+  },
+  "question": null,
+  "last_event_id": "18162",
+  "idempotency_key": "dlj-knight-slam-10100248-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-slam.png"
+}

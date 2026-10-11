@@ -1,0 +1,14 @@
+{
+  "asset": "Assets/Art/DreamLayer/Backgrounds/arena1_burning.png",
+  "source": "ArtRaw/world/arena1-burning.png",
+  "operation": "image_to_image (edit of arena1)",
+  "execution_id": "529073e1-ffde-48f3-958a-b39fb03c2a6a",
+  "idempotency_key": "dlj-arena1-burning-10100143-t1",
+  "credits": 1,
+  "prompt": "Edit: keep everything in the input image exactly the same, including the composition, the camera, the framing, the straight floor line, the columns, the window and the canvas. Change only: the hall is now burning. Flames climb the torn banners and lick up the columns, the stained glass window glows orange from fire behind it, small embers drift in the air, the light turns warm orange and red, and smoke darkens the top of the image. The floor stays flat, open and clear. Same art style. No characters, no people, no text.",
+  "note": "Boss 1 phase 2: the same hall, now burning",
+  "pipeline": {
+    "fit": "Tools/fit_background.py --floor-row 1280 --stretch 1.84 (floor stretched so feet land on it, top trimmed)",
+    "ground_row_px": 1219.5
+  }
+}

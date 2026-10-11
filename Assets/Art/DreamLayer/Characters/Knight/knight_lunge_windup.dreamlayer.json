@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Knight/knight_lunge_windup.png",
+  "source": "ArtRaw/knight/knight-lunge-windup-r2.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "cb177591-4ac7-4e4e-bc9f-19efd6181324",
+  "idempotency_key": "dlj-knight-lunge-windup-r2-t1",
+  "note": "lunge windup (coiled, sword level at the hip); ruler from the upright helm compared at art scale",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 198.0,
+    "teal_blade_px": null,
+    "scale": 0.5934,
+    "anchor_x": 725.6,
+    "output_size": [
+      868,
+      836
+    ],
+    "enclosed_gaps_removed": 10067
+  }
+}

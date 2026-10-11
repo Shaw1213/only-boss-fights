@@ -1,0 +1,13 @@
+{
+  "execution_id": "f729c1ff-b52e-4807-a9bc-fea92a544325",
+  "conversation_id": "f2af14f8-b2df-4699-8354-2e23ef039fe6",
+  "status": "completed",
+  "asset": {
+    "asset_id": "700b498e-abbb-431a-b153-89fcb92ebf48",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/700b498e-abbb-431a-b153-89fcb92ebf48/asset"
+  },
+  "question": null,
+  "last_event_id": "16676",
+  "idempotency_key": "dlj-hero-step512-keep-10091218-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-step512-keep.zip"
+}

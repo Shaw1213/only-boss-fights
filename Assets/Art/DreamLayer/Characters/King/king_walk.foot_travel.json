@@ -1,0 +1,69 @@
+{
+  "source_zip": "king-walk-norm.zip",
+  "frames": 8,
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "floor_row": 449,
+  "boot_rows": 37,
+  "travel_px": [
+    13,
+    24,
+    0,
+    21,
+    19,
+    18,
+    17,
+    14
+  ],
+  "landing_lift_px": [
+    19,
+    0,
+    24,
+    0,
+    2,
+    2,
+    0,
+    5
+  ],
+  "match_scores": [
+    0.879,
+    0.941,
+    0.916,
+    0.926,
+    0.992,
+    0.956,
+    0.976,
+    0.964
+  ],
+  "estimated": [],
+  "total_travel_px": 126,
+  "authored_durations_ms": [
+    620,
+    630,
+    630,
+    620,
+    620,
+    630,
+    630,
+    660
+  ],
+  "durations_ms": [
+    504,
+    931,
+    153,
+    815,
+    737,
+    698,
+    659,
+    543
+  ],
+  "note": "durations proportional to planted-foot travel to the next frame (min share 0.25 of the mean)"
+}

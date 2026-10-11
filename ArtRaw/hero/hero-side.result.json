@@ -1,0 +1,13 @@
+{
+  "execution_id": "8bea9134-a324-446c-b799-e2a1f51e3168",
+  "conversation_id": "7f1fa76c-3f35-43a4-a596-ed9bf70ba72b",
+  "status": "completed",
+  "asset": {
+    "asset_id": "b4443560-4e2a-4680-8a59-93e34f4d83af",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/b4443560-4e2a-4680-8a59-93e34f4d83af/asset"
+  },
+  "question": null,
+  "last_event_id": "14950",
+  "idempotency_key": "dlj-hero-side-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-side.png"
+}

@@ -1,0 +1,13 @@
+{
+  "execution_id": "75cf5d1b-8bf0-487b-ad77-fda7f0d6fe42",
+  "conversation_id": "9ca7ff0b-4791-46a7-85ff-cdabb5f92e6f",
+  "status": "completed",
+  "asset": {
+    "asset_id": "d09853b0-6587-4e99-bc8b-afe5b24fe593",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/d09853b0-6587-4e99-bc8b-afe5b24fe593/asset"
+  },
+  "question": null,
+  "last_event_id": "15533",
+  "idempotency_key": "dlj-hero-slash-keep-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-slash-keep.zip"
+}

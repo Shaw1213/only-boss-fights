@@ -1,0 +1,18 @@
+{
+  "source_zip": "Assets/Art/DreamLayer/Characters/Hero/hero_lobby_run2.zip",
+  "imported_utc": "2026-10-11T10:10:23.2448858Z",
+  "action": "custom",
+  "frames": 9,
+  "loop": true,
+  "total_seconds": 5.04,
+  "durations_ms": [540, 540, 590, 540, 540, 580, 550, 540, 620],
+  "durations_60fps_frames": [32, 32, 35, 32, 32, 35, 33, 32, 37],
+  "pivot": [0.484, 0.139],
+  "pixels_per_unit": 256,
+  "feet_baseline_spread_px": 1,
+  "horizontal_center_spread_px": 18,
+  "sheet": "Assets/Art/DreamLayer/Characters/Hero/hero_lobby_run2/hero_lobby_run2_sheet.png",
+  "clip": "Assets/Art/DreamLayer/Characters/Hero/hero_lobby_run2/hero_lobby_run2.anim",
+  "controller": "Assets/Art/DreamLayer/Characters/Hero/hero_lobby_run2/hero_lobby_run2.controller",
+  "warnings": ["duration_ms says 5042 ms but frame_durations_ms sum to 5040 ms; using the per-frame values.", "alignment is \"source_canvas\"; measured a feet pivot anyway because Characters/ uses feet pivots."]
+}

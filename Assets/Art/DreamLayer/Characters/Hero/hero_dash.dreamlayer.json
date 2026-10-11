@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Hero/hero_dash.png",
+  "source": "ArtRaw/hero/hero-dash.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "767e1799-28a1-4a19-9a4c-14665c9bcdc5",
+  "idempotency_key": "dlj-hero-dash-t1",
+  "note": "dash",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 140.0,
+    "teal_blade_px": 1212.3,
+    "scale": 0.2999,
+    "anchor_x": 745.9,
+    "output_size": [
+      688,
+      484
+    ],
+    "enclosed_gaps_removed": 29899
+  }
+}

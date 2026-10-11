@@ -1,0 +1,13 @@
+{
+  "execution_id": "1934660d-9c8a-4686-890c-eab9e1b1c856",
+  "conversation_id": "d84890eb-05aa-4379-a755-4fea0d267728",
+  "status": "completed",
+  "asset": {
+    "asset_id": "dfb11605-c6f8-4844-abd9-309fa85eb7ea",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/dfb11605-c6f8-4844-abd9-309fa85eb7ea/asset"
+  },
+  "question": null,
+  "last_event_id": "14596",
+  "idempotency_key": "dlj-knight-cleave-strike-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-cleave-strike.png"
+}

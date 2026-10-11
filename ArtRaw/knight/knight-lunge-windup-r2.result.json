@@ -1,0 +1,13 @@
+{
+  "execution_id": "cb177591-4ac7-4e4e-bc9f-19efd6181324",
+  "conversation_id": "38ee2949-7c73-417e-8fdb-1ebf0d2c179d",
+  "status": "completed",
+  "asset": {
+    "asset_id": "fd4c79b1-5e21-40ef-940d-b796d7b89e9b",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/fd4c79b1-5e21-40ef-940d-b796d7b89e9b/asset"
+  },
+  "question": null,
+  "last_event_id": "15549",
+  "idempotency_key": "dlj-knight-lunge-windup-r2-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-lunge-windup-r2.png"
+}

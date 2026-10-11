@@ -1,0 +1,21 @@
+{
+  "asset": "ArtRaw/cast/cast-sheet-001.png",
+  "purpose": "Cast sheet: the hero added next to the approved knight, to lock style and relative size",
+  "operation": "image_to_image (edit)",
+  "prompt_file": "ArtRaw/cast/cast-sheet-001.prompt.txt",
+  "reference_image": "ArtRaw/cast/cast-ref-001.png (local composite: style-board top-left knight, cut out locally, on a 1280x1280 white canvas, right side)",
+  "execution_id": "b742f155-b769-48f2-b07f-626da2a316b0",
+  "conversation_id": "52ce2412-2e3d-45e1-a454-a77f3e760c8f",
+  "asset_id": "2eb83191-5519-447b-8543-fbc37289ca0a",
+  "idempotency_key": "dlj-cast-sheet-001",
+  "balance_after": 97,
+  "seconds_to_result": 52.7,
+  "verdict": "design kept (used as the reference for 002); not croppable: the hero's sword crosses in front of the knight",
+  "timestamp": "2026-10-08",
+  "credits": 1,
+  "client": "dreamlayer CLI 0.4.0-beta.4",
+  "output_size": [
+    2048,
+    2048
+  ]
+}

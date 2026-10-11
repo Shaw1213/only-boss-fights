@@ -1,0 +1,13 @@
+{
+  "execution_id": "8b6d7fd6-aff0-4d3f-893a-ced90bc0a2fa",
+  "conversation_id": "ed50daf7-e4a6-40e0-87ea-f1c5cd9f5db5",
+  "status": "completed",
+  "asset": {
+    "asset_id": "57d739d7-7f1f-4a34-8be7-5de5c84ffbf5",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/57d739d7-7f1f-4a34-8be7-5de5c84ffbf5/asset"
+  },
+  "question": null,
+  "last_event_id": "18011",
+  "idempotency_key": "dlj-knight-phase2-10100155-t2",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-phase2.png"
+}

@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Final/final_leap.png",
+  "source": "ArtRaw/final/final-leap.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "ccba67c6-0aa1-4e6f-be9c-74a201e69389",
+  "idempotency_key": "dlj-final-leap-10110307-t1",
+  "note": "Leap Smash / Heaven Fall airborne (drawn ~10% big: shins and boots side by side; helm hidden)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 110.0,
+    "teal_blade_px": 5.7,
+    "scale": 0.4586,
+    "anchor_x": 770.0,
+    "output_size": [
+      924,
+      872
+    ],
+    "enclosed_gaps_removed": 120452
+  }
+}

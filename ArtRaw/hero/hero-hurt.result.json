@@ -1,0 +1,13 @@
+{
+  "execution_id": "04ff8f1c-8b21-41f4-8c08-68f7b9fe1d4b",
+  "conversation_id": "87e24986-f205-46e6-b1b6-0241735a211f",
+  "status": "completed",
+  "asset": {
+    "asset_id": "52a1658d-8add-4e0f-97ed-ffba1dff8c7e",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/52a1658d-8add-4e0f-97ed-ffba1dff8c7e/asset"
+  },
+  "question": null,
+  "last_event_id": "15416",
+  "idempotency_key": "dlj-hero-hurt-t2",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-hurt.png"
+}

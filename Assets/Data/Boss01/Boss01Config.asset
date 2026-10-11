@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48beb15d624cdc34f96ef96ecec31e69, type: 3}
+  m_Name: Boss01Config
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.BossConfig
+  displayName: The Fallen Knight
+  maxHealth: 100
+  staggerMax: 100
+  staggerPerParry: 25
+  staggerDecayDelaySeconds: 2
+  staggerDecayPerSecond: 10
+  staggerDurationSeconds: 2.2
+  parryPushback: 0.3
+  walkSpeed: 2.5
+  approachMaxSeconds: 1.5
+  firstAttackDelaySeconds: 1.2
+  hurtboxOffset: {x: 0, y: 1.45}
+  hurtboxSize: {x: 1.5, y: 2.9}
+  phase1Moves:
+  - {fileID: 11400000, guid: ce517bb2c5bfc0241bafafea2a2220e6, type: 2}
+  - {fileID: 11400000, guid: bb1d4ccc6f8dd3e41a4a57b015550a1e, type: 2}
+  - {fileID: 11400000, guid: 9ebddfab0e9ab474da115d3220338355, type: 2}
+  phase1IdleSeconds: {x: 0.6, y: 1}
+  phase2AtHealth: 0.5
+  phase2Moves:
+  - {fileID: 11400000, guid: ce517bb2c5bfc0241bafafea2a2220e6, type: 2}
+  - {fileID: 11400000, guid: bb1d4ccc6f8dd3e41a4a57b015550a1e, type: 2}
+  - {fileID: 11400000, guid: 55eb942919e86304dacc768a80b8fa6f, type: 2}
+  - {fileID: 11400000, guid: 5471187c80e76254ab13b67beca110ee, type: 2}
+  - {fileID: 11400000, guid: 3d86a6d9ba670394288f7e2f19abecff, type: 2}
+  phase2IdleSeconds: {x: 0.25, y: 0.5}
+  phaseTransitionSeconds: 1.2
+  avoidRepeats: 1

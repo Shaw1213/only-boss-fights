@@ -1,0 +1,361 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4cafd381506a2947982cede0eb81258, type: 3}
+  m_Name: SoundBank
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.SoundBank
+  cues:
+  - id: 1
+    clips:
+    - {fileID: 8300000, guid: ef92dedac38828d4eb93688f6b215bbb, type: 3}
+    - {fileID: 8300000, guid: 0e58dc8802c0bac4f935a52656d986f8, type: 3}
+    - {fileID: 8300000, guid: ac7a0fedf181c0542ad9801b2f2cdd6f, type: 3}
+    layer: []
+    volume: 0.618
+    layerVolume: 0
+    pitch: {x: 0.94, y: 1.08}
+    cooldown: 0.03
+  - id: 2
+    clips:
+    - {fileID: 8300000, guid: d64167b88ad769f40bdf86b0a1bf0bb8, type: 3}
+    - {fileID: 8300000, guid: 8965b48299dc7c2479e32d13753dcbcf, type: 3}
+    layer: []
+    volume: 0.634
+    layerVolume: 0
+    pitch: {x: 0.95, y: 1.05}
+    cooldown: 0.03
+  - id: 3
+    clips:
+    - {fileID: 8300000, guid: 2b4d33dfb8d778b43821e8713e4c9df2, type: 3}
+    - {fileID: 8300000, guid: 57329e40aa0f97149afccac7b309b578, type: 3}
+    - {fileID: 8300000, guid: d75642554b142e64bb6e305b5f967320, type: 3}
+    - {fileID: 8300000, guid: d480e909de6e8bc46aba3b18ffeb1ffc, type: 3}
+    - {fileID: 8300000, guid: 2f6336d2ef8652441baa1587eaff1212, type: 3}
+    layer:
+    - {fileID: 8300000, guid: df7f9884f06bece488cdb9f527a9fb34, type: 3}
+    - {fileID: 8300000, guid: 97e1947023c99b04db737f04f84eb444, type: 3}
+    - {fileID: 8300000, guid: d00956431c043724cbb1477c64fc0098, type: 3}
+    - {fileID: 8300000, guid: a20ac568d22b5814ca1393a508e55d8a, type: 3}
+    - {fileID: 8300000, guid: 27075f6e324f4a64cb190924f957e194, type: 3}
+    volume: 1
+    layerVolume: 0.393
+    pitch: {x: 0.95, y: 1.08}
+    cooldown: 0.03
+  - id: 4
+    clips:
+    - {fileID: 8300000, guid: 041f3f0184ad16d45996ccf9e5912205, type: 3}
+    - {fileID: 8300000, guid: 4d44cde172df6914ba2c97108fda20b8, type: 3}
+    - {fileID: 8300000, guid: 142faa05f54e7aa479f56b555d8119ab, type: 3}
+    - {fileID: 8300000, guid: 16b897f36dbe1334bab35a2b205edf40, type: 3}
+    - {fileID: 8300000, guid: 423b9848e2a50ef48b960a3ca2298b54, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 38ca488d700703c4db926f028c12a40a, type: 3}
+    - {fileID: 8300000, guid: bbded77585a63844186d4ec54f9b98c9, type: 3}
+    - {fileID: 8300000, guid: 22cdc46eb4e610b4a89d2ed2c97d92fb, type: 3}
+    - {fileID: 8300000, guid: aa22b6748028ae543a1f9e696bd50bc2, type: 3}
+    - {fileID: 8300000, guid: 8314052667a9dd24c87e23ca85031c90, type: 3}
+    volume: 1
+    layerVolume: 0.45
+    pitch: {x: 0.93, y: 1.03}
+    cooldown: 0.03
+  - id: 5
+    clips:
+    - {fileID: 8300000, guid: 8ee872f2eb7fe8f4bb730b09dbe5c445, type: 3}
+    layer:
+    - {fileID: 8300000, guid: f95a369fe3d31ed4f93bfdc15007312b, type: 3}
+    - {fileID: 8300000, guid: 8d3ef52bfb752094d850ee8f441d25eb, type: 3}
+    - {fileID: 8300000, guid: 8d998c7d3d3d171479b6c5bc089659b5, type: 3}
+    - {fileID: 8300000, guid: dfbe893b423abad43a962d1830786b85, type: 3}
+    - {fileID: 8300000, guid: 2daf403bbffa5dc489c1e75df580c0b8, type: 3}
+    volume: 0.894
+    layerVolume: 1
+    pitch: {x: 0.98, y: 1.04}
+    cooldown: 0.05
+  - id: 6
+    clips:
+    - {fileID: 8300000, guid: 8cdd8dc0f04f4ae418174d464c050429, type: 3}
+    layer:
+    - {fileID: 8300000, guid: caa312aff2b10cf4cb3b94b65b396630, type: 3}
+    - {fileID: 8300000, guid: 3b541eed7b8c564429cf4771b8aa876b, type: 3}
+    - {fileID: 8300000, guid: 36e07ad0d76255c478630baddbfa3b74, type: 3}
+    - {fileID: 8300000, guid: 18704c2389dd05c4894d9340ca7db0a4, type: 3}
+    - {fileID: 8300000, guid: f6e5071175e6e424fb07d66210f3f462, type: 3}
+    volume: 0.861
+    layerVolume: 1
+    pitch: {x: 0.96, y: 1.04}
+    cooldown: 0.05
+  - id: 7
+    clips:
+    - {fileID: 8300000, guid: 25e397e947337614ea4a34cfe070edbc, type: 3}
+    layer: []
+    volume: 0.692
+    layerVolume: 0
+    pitch: {x: 0.98, y: 1.02}
+    cooldown: 0.1
+  - id: 8
+    clips:
+    - {fileID: 8300000, guid: f35fbf62cd65b62429034132373b896f, type: 3}
+    - {fileID: 8300000, guid: a6ce352b6b5322a4590e1c7c196d350f, type: 3}
+    - {fileID: 8300000, guid: f664ab8fde238644088a58bd357672b2, type: 3}
+    - {fileID: 8300000, guid: 65b5e4c04dcc6394ba01bcefc903e5fa, type: 3}
+    - {fileID: 8300000, guid: 013ba6b82e19f754e9a8f753927d0ea5, type: 3}
+    - {fileID: 8300000, guid: e279ad119091db947821eda98a980e4c, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 76c888a2a0d3c044f849850e3eb006da, type: 3}
+    volume: 1
+    layerVolume: 0.399
+    pitch: {x: 0.95, y: 1.08}
+    cooldown: 0.05
+  - id: 9
+    clips:
+    - {fileID: 8300000, guid: 38ca488d700703c4db926f028c12a40a, type: 3}
+    - {fileID: 8300000, guid: bbded77585a63844186d4ec54f9b98c9, type: 3}
+    - {fileID: 8300000, guid: 22cdc46eb4e610b4a89d2ed2c97d92fb, type: 3}
+    - {fileID: 8300000, guid: aa22b6748028ae543a1f9e696bd50bc2, type: 3}
+    - {fileID: 8300000, guid: 8314052667a9dd24c87e23ca85031c90, type: 3}
+    layer:
+    - {fileID: 8300000, guid: e5305adfc056c7548b5bbeceb71317ab, type: 3}
+    - {fileID: 8300000, guid: a7211031ae3109946a71062f4c57c0f8, type: 3}
+    - {fileID: 8300000, guid: e4ad1496b7b7c7c488badb8cf673b21d, type: 3}
+    - {fileID: 8300000, guid: 1235e6981886e68439202f56188f40ff, type: 3}
+    - {fileID: 8300000, guid: 13fa8cf057ec9a64dae3dff8502e9d65, type: 3}
+    volume: 0.566
+    layerVolume: 0.34
+    pitch: {x: 0.95, y: 1.05}
+    cooldown: 0.05
+  - id: 10
+    clips:
+    - {fileID: 8300000, guid: d91310bb0eae6bc4da6c1096d7fc3055, type: 3}
+    layer:
+    - {fileID: 8300000, guid: e5305adfc056c7548b5bbeceb71317ab, type: 3}
+    - {fileID: 8300000, guid: a7211031ae3109946a71062f4c57c0f8, type: 3}
+    - {fileID: 8300000, guid: e4ad1496b7b7c7c488badb8cf673b21d, type: 3}
+    - {fileID: 8300000, guid: 1235e6981886e68439202f56188f40ff, type: 3}
+    - {fileID: 8300000, guid: 13fa8cf057ec9a64dae3dff8502e9d65, type: 3}
+    volume: 0.553
+    layerVolume: 0.428
+    pitch: {x: 0.9, y: 0.95}
+    cooldown: 0.5
+  - id: 11
+    clips:
+    - {fileID: 8300000, guid: af183d1de9e275649b5fe650311570c4, type: 3}
+    layer: []
+    volume: 0.168
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 0.2
+  - id: 12
+    clips:
+    - {fileID: 8300000, guid: 4b8e2a61f12acba43af01f404a3191e4, type: 3}
+    layer: []
+    volume: 0.689
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 0.1
+  - id: 13
+    clips:
+    - {fileID: 8300000, guid: b207730bd2044c84f9a434a741df3cbd, type: 3}
+    layer: []
+    volume: 0.731
+    layerVolume: 0
+    pitch: {x: 0.97, y: 1.03}
+    cooldown: 0.1
+  - id: 14
+    clips:
+    - {fileID: 8300000, guid: 31a049daa552ca3499f3c4e37e1a69e5, type: 3}
+    layer: []
+    volume: 0.755
+    layerVolume: 0
+    pitch: {x: 0.99, y: 1.01}
+    cooldown: 0.05
+  - id: 15
+    clips:
+    - {fileID: 8300000, guid: cb213bf12894ba64cb3af4e1afb8d944, type: 3}
+    layer: []
+    volume: 0.702
+    layerVolume: 0
+    pitch: {x: 0.98, y: 1.02}
+    cooldown: 0.05
+  - id: 16
+    clips:
+    - {fileID: 8300000, guid: 806315f73b2892d44be3eae1e5a2c3d3, type: 3}
+    - {fileID: 8300000, guid: a3794d7aedbc2b442ba599e35933a7dc, type: 3}
+    layer: []
+    volume: 0.48
+    layerVolume: 0
+    pitch: {x: 0.92, y: 1.02}
+    cooldown: 0.05
+  - id: 17
+    clips:
+    - {fileID: 8300000, guid: d91310bb0eae6bc4da6c1096d7fc3055, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 70b5bcf9b0ab7a34b995983c6f3fd435, type: 3}
+    - {fileID: 8300000, guid: 7737bf42a6fa9784d9507ef8bc35948c, type: 3}
+    - {fileID: 8300000, guid: 9a1d4b7092d59d0458a22e554f05092e, type: 3}
+    - {fileID: 8300000, guid: dec665132f264c849a511a6944a42594, type: 3}
+    - {fileID: 8300000, guid: 2c1873f2491bb8c42a853155f189380b, type: 3}
+    volume: 0.553
+    layerVolume: 0.557
+    pitch: {x: 0.95, y: 1.02}
+    cooldown: 0.1
+  - id: 18
+    clips:
+    - {fileID: 8300000, guid: 51a505dee65f9e040a650704c0fd1368, type: 3}
+    layer: []
+    volume: 0.777
+    layerVolume: 0
+    pitch: {x: 0.96, y: 1.04}
+    cooldown: 0.1
+  - id: 19
+    clips:
+    - {fileID: 8300000, guid: f4ba521feff05604d9e395f356e216d5, type: 3}
+    layer: []
+    volume: 0.322
+    layerVolume: 0
+    pitch: {x: 0.9, y: 1.1}
+    cooldown: 0.05
+  - id: 20
+    clips:
+    - {fileID: 8300000, guid: 0537f802dae72f542befce9f7009d985, type: 3}
+    - {fileID: 8300000, guid: 99991f98d6cebf44980e9e704ae81945, type: 3}
+    - {fileID: 8300000, guid: 03d3fb6edcb54f9488ea8292151110ea, type: 3}
+    - {fileID: 8300000, guid: 913108f1fa616344fa4a75aed67d96b3, type: 3}
+    - {fileID: 8300000, guid: 6f0526139f7168548b0fc8357b21daca, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 041f3f0184ad16d45996ccf9e5912205, type: 3}
+    - {fileID: 8300000, guid: 4d44cde172df6914ba2c97108fda20b8, type: 3}
+    - {fileID: 8300000, guid: 142faa05f54e7aa479f56b555d8119ab, type: 3}
+    - {fileID: 8300000, guid: 16b897f36dbe1334bab35a2b205edf40, type: 3}
+    - {fileID: 8300000, guid: 423b9848e2a50ef48b960a3ca2298b54, type: 3}
+    volume: 1
+    layerVolume: 0.688
+    pitch: {x: 0.95, y: 1}
+    cooldown: 0.2
+  - id: 21
+    clips:
+    - {fileID: 8300000, guid: 0af8325be32a48e4896e7e2f156cc55e, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 0537f802dae72f542befce9f7009d985, type: 3}
+    - {fileID: 8300000, guid: 99991f98d6cebf44980e9e704ae81945, type: 3}
+    - {fileID: 8300000, guid: 03d3fb6edcb54f9488ea8292151110ea, type: 3}
+    - {fileID: 8300000, guid: 913108f1fa616344fa4a75aed67d96b3, type: 3}
+    - {fileID: 8300000, guid: 6f0526139f7168548b0fc8357b21daca, type: 3}
+    volume: 0.568
+    layerVolume: 0.988
+    pitch: {x: 0.9, y: 0.9}
+    cooldown: 0.5
+  - id: 22
+    clips:
+    - {fileID: 8300000, guid: 0af8325be32a48e4896e7e2f156cc55e, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 041f3f0184ad16d45996ccf9e5912205, type: 3}
+    - {fileID: 8300000, guid: 4d44cde172df6914ba2c97108fda20b8, type: 3}
+    - {fileID: 8300000, guid: 142faa05f54e7aa479f56b555d8119ab, type: 3}
+    - {fileID: 8300000, guid: 16b897f36dbe1334bab35a2b205edf40, type: 3}
+    - {fileID: 8300000, guid: 423b9848e2a50ef48b960a3ca2298b54, type: 3}
+    volume: 0.568
+    layerVolume: 0.772
+    pitch: {x: 0.85, y: 0.85}
+    cooldown: 0.5
+  - id: 23
+    clips:
+    - {fileID: 8300000, guid: 17c8ae053a5b5b347a4f8e018d3eed40, type: 3}
+    - {fileID: 8300000, guid: b6d87108d5bc55748b19eb10d81b19f8, type: 3}
+    - {fileID: 8300000, guid: d313d1058e9fd7a479025a050cb22866, type: 3}
+    - {fileID: 8300000, guid: f47076e909016764cbc267c78b5359cd, type: 3}
+    - {fileID: 8300000, guid: 78b71fe6498b9304ea6d18595d9041f3, type: 3}
+    layer:
+    - {fileID: 8300000, guid: 71e9a6cbd8e5c08468e31bda2cb18090, type: 3}
+    - {fileID: 8300000, guid: 86354defb2460d84883f132d86ddb7a7, type: 3}
+    - {fileID: 8300000, guid: 19149434fb4ebf04ca25cedddc1439ed, type: 3}
+    - {fileID: 8300000, guid: 4d3d728074fb014439b721deb6181329, type: 3}
+    - {fileID: 8300000, guid: ab99c805f8c8334468a37772debb4230, type: 3}
+    volume: 1
+    layerVolume: 0.468
+    pitch: {x: 0.8, y: 0.9}
+    cooldown: 0.15
+  - id: 24
+    clips:
+    - {fileID: 8300000, guid: 17c8ae053a5b5b347a4f8e018d3eed40, type: 3}
+    - {fileID: 8300000, guid: b6d87108d5bc55748b19eb10d81b19f8, type: 3}
+    - {fileID: 8300000, guid: d313d1058e9fd7a479025a050cb22866, type: 3}
+    - {fileID: 8300000, guid: f47076e909016764cbc267c78b5359cd, type: 3}
+    - {fileID: 8300000, guid: 78b71fe6498b9304ea6d18595d9041f3, type: 3}
+    layer: []
+    volume: 0.471
+    layerVolume: 0
+    pitch: {x: 0.95, y: 1.1}
+    cooldown: 0.12
+  - id: 25
+    clips:
+    - {fileID: 8300000, guid: 0af8325be32a48e4896e7e2f156cc55e, type: 3}
+    layer: []
+    volume: 0.285
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 0.5
+  - id: 26
+    clips:
+    - {fileID: 8300000, guid: 9dd3982cd71e38d46ab307dcaf9948c2, type: 3}
+    layer: []
+    volume: 0.508
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 0.3
+  - id: 27
+    clips:
+    - {fileID: 8300000, guid: f7a40199660e07240b2b6cbda3655b89, type: 3}
+    layer:
+    - {fileID: 8300000, guid: e9ff447ffef490641b6e569ec78f149c, type: 3}
+    - {fileID: 8300000, guid: ac6bed12ba95e7e48952fc85d4ef4386, type: 3}
+    - {fileID: 8300000, guid: a2f3b89e9fa8ad7458e0d954d7f18783, type: 3}
+    volume: 0.441
+    layerVolume: 1
+    pitch: {x: 1, y: 1}
+    cooldown: 0.5
+  - id: 28
+    clips:
+    - {fileID: 8300000, guid: acc69dd1965649146abf6f720922987c, type: 3}
+    layer: []
+    volume: 0.526
+    layerVolume: 0
+    pitch: {x: 0.9, y: 0.95}
+    cooldown: 0.3
+  - id: 29
+    clips:
+    - {fileID: 8300000, guid: 4e383daf4bc07ff4d881c07f624fd6c5, type: 3}
+    layer: []
+    volume: 0.261
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 0.1
+  - id: 30
+    clips:
+    - {fileID: 8300000, guid: 03390400c06c23e479911a2797ea5455, type: 3}
+    layer: []
+    volume: 0.783
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 1
+  - id: 31
+    clips:
+    - {fileID: 8300000, guid: e46c1b5719b23714db80dc376dcf0928, type: 3}
+    layer: []
+    volume: 0.684
+    layerVolume: 0
+    pitch: {x: 1, y: 1}
+    cooldown: 1
+  lobbyMusic: {fileID: 8300000, guid: 52a57cc684df0cb4e8f096b5e341a2b9, type: 3}
+  fightMusic: {fileID: 8300000, guid: 7d0007d93bfd18846b086b27da3502c6, type: 3}
+  fightPhase2Music: {fileID: 8300000, guid: c0a42bca124eefa43a9ea4ab29298201, type: 3}
+  endingMusic: {fileID: 8300000, guid: ec33ad1e5d3a1f24ea323183e7392ebb, type: 3}
+  musicVolume: 0.45
+  sfxVolume: 1

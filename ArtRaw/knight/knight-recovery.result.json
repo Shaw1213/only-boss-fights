@@ -1,0 +1,13 @@
+{
+  "execution_id": "2402d171-f1ff-46aa-9d73-23599bdca2c8",
+  "conversation_id": "69f32baf-0861-4a34-9048-e6b045e93b5c",
+  "status": "completed",
+  "asset": {
+    "asset_id": "26227312-998d-433e-bc55-f64845eb4f2a",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/26227312-998d-433e-bc55-f64845eb4f2a/asset"
+  },
+  "question": null,
+  "last_event_id": "15393",
+  "idempotency_key": "dlj-knight-recovery-t3",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-recovery.png"
+}

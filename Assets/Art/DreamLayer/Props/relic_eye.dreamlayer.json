@@ -1,0 +1,15 @@
+{
+  "asset": "Assets/Art/DreamLayer/Props/relic_eye.png",
+  "source": "ArtRaw/world/relics.png (crop [1690, 480, 2330, 1020])",
+  "operation": "text_to_image (generate, 16:9): one sheet for all three relics",
+  "execution_id": "d590eca2-9b56-4a3b-b764-5a75ef1a9032",
+  "idempotency_key": "dlj-relics-10100149-t1",
+  "credits": "1 for the sheet of 3",
+  "prompt": "Generate: three separate game item illustrations in one image, side by side with wide empty space between them, each one whole and fully inside its own third of the image, all three about the same height, seen from the front at eye level. Left: a knight's straight steel longsword standing upright, point down, with a cross-guard, a ring pommel and a red leather grip. Center: a heavy gold royal crown set with red gems. Right: the relic of an ancient eldritch god: a dark stone sphere with one large golden slit-pupil eye in it and a few short curling tendrils around its base. No glow, no aura, no sparkles. Modern high-fantasy TV anime cel style: crisp dark line art with slight weight variation (thicker outer contour, thinner interior lines), two-tone cel shading with sharp-edged shadow shapes, one small hard highlight on metal, saturated but controlled colors in clean flat fills, consistent light from the upper left. Plain flat solid white background with nothing else in it. No ground, no floor shadow, no scenery, no text, no watermark.",
+  "note": "the Unknown One's relic: the eye (placeholder design)",
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "background_removed_pct": 52.8,
+    "enclosed_gaps_removed": null
+  }
+}

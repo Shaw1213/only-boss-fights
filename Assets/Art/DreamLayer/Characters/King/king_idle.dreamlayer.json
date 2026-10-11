@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/King/king_idle.png",
+  "source": "ArtRaw/king/king-ref-t4.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "948773c4-f8c0-489a-bd8c-5223ceb075c2",
+  "idempotency_key": "dlj-king-ref-10102350-t4",
+  "note": "the approved King form reference as the idle",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 100.0,
+    "teal_blade_px": 311.5,
+    "scale": 0.6466,
+    "anchor_x": 332.6,
+    "output_size": [
+      616,
+      904
+    ],
+    "enclosed_gaps_removed": 7289
+  }
+}

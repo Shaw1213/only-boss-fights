@@ -1,0 +1,574 @@
+{
+ "cues": [
+  {
+   "id": "HeroSwingLight",
+   "category": "swing",
+   "clips": [
+    "Assets/Audio/SFX/Synth\\swing_light_0.wav",
+    "Assets/Audio/SFX/Synth\\swing_light_1.wav",
+    "Assets/Audio/SFX/Synth\\swing_light_2.wav"
+   ],
+   "layer": [],
+   "volume": 0.618,
+   "layerVolume": 0.0,
+   "pitchMin": 0.94,
+   "pitchMax": 1.08,
+   "cooldown": 0.03,
+   "measuredDb": -12.8,
+   "targetDb": -17
+  },
+  {
+   "id": "HeroSwingHeavy",
+   "category": "swing",
+   "clips": [
+    "Assets/Audio/SFX/Synth\\swing_heavy_0.wav",
+    "Assets/Audio/SFX/Synth\\swing_heavy_1.wav"
+   ],
+   "layer": [],
+   "volume": 0.634,
+   "layerVolume": 0.0,
+   "pitchMin": 0.95,
+   "pitchMax": 1.05,
+   "cooldown": 0.03,
+   "measuredDb": -13.0,
+   "targetDb": -17
+  },
+  {
+   "id": "HitLight",
+   "category": "hit",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_medium_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_medium_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_medium_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_medium_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_medium_004.ogg"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_medium_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_medium_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_medium_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_medium_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_medium_004.ogg"
+   ],
+   "volume": 1.0,
+   "layerVolume": 0.393,
+   "pitchMin": 0.95,
+   "pitchMax": 1.08,
+   "cooldown": 0.03,
+   "measuredDb": -13.6,
+   "targetDb": -13
+  },
+  {
+   "id": "HitHeavy",
+   "category": "hit_heavy",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_004.ogg"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_004.ogg"
+   ],
+   "volume": 1.0,
+   "layerVolume": 0.45,
+   "pitchMin": 0.93,
+   "pitchMax": 1.03,
+   "cooldown": 0.03,
+   "measuredDb": -11.7,
+   "targetDb": -11
+  },
+  {
+   "id": "Parry",
+   "category": "parry",
+   "clips": [
+    "Assets/Audio/SFX/Synth/parry_ring.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_light_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_light_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_light_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_light_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_light_004.ogg"
+   ],
+   "volume": 0.894,
+   "layerVolume": 1.0,
+   "pitchMin": 0.98,
+   "pitchMax": 1.04,
+   "cooldown": 0.05,
+   "measuredDb": -8.0,
+   "targetDb": -9
+  },
+  {
+   "id": "Clash",
+   "category": "parry",
+   "clips": [
+    "Assets/Audio/SFX/Synth/clash_ring.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMetal_heavy_004.ogg"
+   ],
+   "volume": 0.861,
+   "layerVolume": 1.0,
+   "pitchMin": 0.96,
+   "pitchMax": 1.04,
+   "cooldown": 0.05,
+   "measuredDb": -7.7,
+   "targetDb": -9
+  },
+  {
+   "id": "FlashCounter",
+   "category": "accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/flash_counter.wav"
+   ],
+   "layer": [],
+   "volume": 0.692,
+   "layerVolume": 0.0,
+   "pitchMin": 0.98,
+   "pitchMax": 1.02,
+   "cooldown": 0.1,
+   "measuredDb": -10.8,
+   "targetDb": -14
+  },
+  {
+   "id": "Dash",
+   "category": "move",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/rpg/cloth1.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/cloth2.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/cloth3.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/cloth4.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/clothBelt.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/clothBelt2.ogg"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Synth/dash.wav"
+   ],
+   "volume": 1.0,
+   "layerVolume": 0.399,
+   "pitchMin": 0.95,
+   "pitchMax": 1.08,
+   "cooldown": 0.05,
+   "measuredDb": -24.2,
+   "targetDb": -20
+  },
+  {
+   "id": "HeroHurt",
+   "category": "hit",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPunch_heavy_004.ogg"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_004.ogg"
+   ],
+   "volume": 0.566,
+   "layerVolume": 0.34,
+   "pitchMin": 0.95,
+   "pitchMax": 1.05,
+   "cooldown": 0.05,
+   "measuredDb": -8.1,
+   "targetDb": -13
+  },
+  {
+   "id": "HeroDeath",
+   "category": "hit_heavy",
+   "clips": [
+    "Assets/Audio/SFX/Synth/boom_slam.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactSoft_heavy_004.ogg"
+   ],
+   "volume": 0.553,
+   "layerVolume": 0.428,
+   "pitchMin": 0.9,
+   "pitchMax": 0.95,
+   "cooldown": 0.5,
+   "measuredDb": -5.9,
+   "targetDb": -11
+  },
+  {
+   "id": "ChargeStart",
+   "category": "soft",
+   "clips": [
+    "Assets/Audio/SFX/Synth/charge.wav"
+   ],
+   "layer": [],
+   "volume": 0.168,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 0.2,
+   "measuredDb": -5.5,
+   "targetDb": -21
+  },
+  {
+   "id": "Harvest",
+   "category": "accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/harvest.wav"
+   ],
+   "layer": [],
+   "volume": 0.689,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 0.1,
+   "measuredDb": -10.8,
+   "targetDb": -14
+  },
+  {
+   "id": "WaveRelease",
+   "category": "accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/wave_release.wav"
+   ],
+   "layer": [],
+   "volume": 0.731,
+   "layerVolume": 0.0,
+   "pitchMin": 0.97,
+   "pitchMax": 1.03,
+   "cooldown": 0.1,
+   "measuredDb": -11.3,
+   "targetDb": -14
+  },
+  {
+   "id": "CueGlint",
+   "category": "cue",
+   "clips": [
+    "Assets/Audio/SFX/Synth/cue_glint.wav"
+   ],
+   "layer": [],
+   "volume": 0.755,
+   "layerVolume": 0.0,
+   "pitchMin": 0.99,
+   "pitchMax": 1.01,
+   "cooldown": 0.05,
+   "measuredDb": -11.6,
+   "targetDb": -14
+  },
+  {
+   "id": "CueDanger",
+   "category": "cue",
+   "clips": [
+    "Assets/Audio/SFX/Synth/cue_danger.wav"
+   ],
+   "layer": [],
+   "volume": 0.702,
+   "layerVolume": 0.0,
+   "pitchMin": 0.98,
+   "pitchMax": 1.02,
+   "cooldown": 0.05,
+   "measuredDb": -10.9,
+   "targetDb": -14
+  },
+  {
+   "id": "BossSwing",
+   "category": "swing",
+   "clips": [
+    "Assets/Audio/SFX/Synth\\boss_swing_0.wav",
+    "Assets/Audio/SFX/Synth\\boss_swing_1.wav"
+   ],
+   "layer": [],
+   "volume": 0.48,
+   "layerVolume": 0.0,
+   "pitchMin": 0.92,
+   "pitchMax": 1.02,
+   "cooldown": 0.05,
+   "measuredDb": -10.6,
+   "targetDb": -17
+  },
+  {
+   "id": "BossSlam",
+   "category": "hit_heavy",
+   "clips": [
+    "Assets/Audio/SFX/Synth/boom_slam.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactMining_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMining_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMining_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMining_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactMining_004.ogg"
+   ],
+   "volume": 0.553,
+   "layerVolume": 0.557,
+   "pitchMin": 0.95,
+   "pitchMax": 1.02,
+   "cooldown": 0.1,
+   "measuredDb": -5.9,
+   "targetDb": -11
+  },
+  {
+   "id": "FlameWave",
+   "category": "accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/fire_wave.wav"
+   ],
+   "layer": [],
+   "volume": 0.777,
+   "layerVolume": 0.0,
+   "pitchMin": 0.96,
+   "pitchMax": 1.04,
+   "cooldown": 0.1,
+   "measuredDb": -11.8,
+   "targetDb": -14
+  },
+  {
+   "id": "BurnTick",
+   "category": "soft",
+   "clips": [
+    "Assets/Audio/SFX/Synth/fire_tick.wav"
+   ],
+   "layer": [],
+   "volume": 0.322,
+   "layerVolume": 0.0,
+   "pitchMin": 0.9,
+   "pitchMax": 1.1,
+   "cooldown": 0.05,
+   "measuredDb": -11.2,
+   "targetDb": -21
+  },
+  {
+   "id": "BossStagger",
+   "category": "hit_heavy",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_004.ogg"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_004.ogg"
+   ],
+   "volume": 1.0,
+   "layerVolume": 0.688,
+   "pitchMin": 0.95,
+   "pitchMax": 1.0,
+   "cooldown": 0.2,
+   "measuredDb": -13.9,
+   "targetDb": -11
+  },
+  {
+   "id": "PhaseChange",
+   "category": "big",
+   "clips": [
+    "Assets/Audio/SFX/Synth/boom_deep.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactBell_heavy_004.ogg"
+   ],
+   "volume": 0.568,
+   "layerVolume": 0.988,
+   "pitchMin": 0.9,
+   "pitchMax": 0.9,
+   "cooldown": 0.5,
+   "measuredDb": -5.1,
+   "targetDb": -10
+  },
+  {
+   "id": "BossDeath",
+   "category": "big",
+   "clips": [
+    "Assets/Audio/SFX/Synth/boom_deep.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_heavy_004.ogg"
+   ],
+   "volume": 0.568,
+   "layerVolume": 0.772,
+   "pitchMin": 0.85,
+   "pitchMax": 0.85,
+   "cooldown": 0.5,
+   "measuredDb": -5.1,
+   "targetDb": -10
+  },
+  {
+   "id": "BossStep",
+   "category": "step_boss",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_004.ogg"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_light_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_light_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_light_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_light_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/impactPlate_light_004.ogg"
+   ],
+   "volume": 1.0,
+   "layerVolume": 0.468,
+   "pitchMin": 0.8,
+   "pitchMax": 0.9,
+   "cooldown": 0.15,
+   "measuredDb": -18.5,
+   "targetDb": -18
+  },
+  {
+   "id": "Footstep",
+   "category": "step",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_000.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_001.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_002.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_003.ogg",
+    "Assets/Audio/SFX/Kenney/impact/footstep_concrete_004.ogg"
+   ],
+   "layer": [],
+   "volume": 0.471,
+   "layerVolume": 0.0,
+   "pitchMin": 0.95,
+   "pitchMax": 1.1,
+   "cooldown": 0.12,
+   "measuredDb": -18.5,
+   "targetDb": -25
+  },
+  {
+   "id": "NameCard",
+   "category": "ui_accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/boom_deep.wav"
+   ],
+   "layer": [],
+   "volume": 0.285,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 0.5,
+   "measuredDb": -5.1,
+   "targetDb": -16
+  },
+  {
+   "id": "RelicCharge",
+   "category": "ui_accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/relic_charge.wav"
+   ],
+   "layer": [],
+   "volume": 0.508,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 0.3,
+   "measuredDb": -10.1,
+   "targetDb": -16
+  },
+  {
+   "id": "RelicEnter",
+   "category": "ui_accent",
+   "clips": [
+    "Assets/Audio/SFX/Synth/relic_enter.wav"
+   ],
+   "layer": [
+    "Assets/Audio/SFX/Kenney/rpg/drawKnife1.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/drawKnife2.ogg",
+    "Assets/Audio/SFX/Kenney/rpg/drawKnife3.ogg"
+   ],
+   "volume": 0.441,
+   "layerVolume": 1.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 0.5,
+   "measuredDb": -8.9,
+   "targetDb": -16
+  },
+  {
+   "id": "RelicSealed",
+   "category": "ui",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/interface/bong_001.ogg"
+   ],
+   "layer": [],
+   "volume": 0.526,
+   "layerVolume": 0.0,
+   "pitchMin": 0.9,
+   "pitchMax": 0.95,
+   "cooldown": 0.3,
+   "measuredDb": -12.4,
+   "targetDb": -18
+  },
+  {
+   "id": "UiConfirm",
+   "category": "ui",
+   "clips": [
+    "Assets/Audio/SFX/Kenney/interface/confirmation_001.ogg"
+   ],
+   "layer": [],
+   "volume": 0.261,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 0.1,
+   "measuredDb": -6.3,
+   "targetDb": -18
+  },
+  {
+   "id": "Victory",
+   "category": "sting",
+   "clips": [
+    "Assets/Audio/SFX/Synth/sting_victory.wav"
+   ],
+   "layer": [],
+   "volume": 0.783,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 1.0,
+   "measuredDb": -10.9,
+   "targetDb": -13
+  },
+  {
+   "id": "Defeat",
+   "category": "sting",
+   "clips": [
+    "Assets/Audio/SFX/Synth/sting_defeat.wav"
+   ],
+   "layer": [],
+   "volume": 0.684,
+   "layerVolume": 0.0,
+   "pitchMin": 1.0,
+   "pitchMax": 1.0,
+   "cooldown": 1.0,
+   "measuredDb": -9.7,
+   "targetDb": -13
+  }
+ ]
+}

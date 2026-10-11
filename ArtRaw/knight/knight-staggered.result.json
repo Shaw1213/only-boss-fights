@@ -1,0 +1,13 @@
+{
+  "execution_id": "c84d09df-dfd8-4c0f-ac87-824895235c77",
+  "conversation_id": "b946b032-4ef4-4ae8-826f-a68f15aa2009",
+  "status": "completed",
+  "asset": {
+    "asset_id": "54be79b7-1bb9-4dcf-81e7-17144b460c09",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/54be79b7-1bb9-4dcf-81e7-17144b460c09/asset"
+  },
+  "question": null,
+  "last_event_id": "15424",
+  "idempotency_key": "dlj-knight-staggered-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-staggered.png"
+}

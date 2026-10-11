@@ -1,0 +1,14 @@
+{
+  "asset": "Assets/Art/DreamLayer/Backgrounds/arena2_frozen.png",
+  "source": "ArtRaw/world/arena2-frozen.png",
+  "operation": "image_to_image (edit of arena2)",
+  "execution_id": "81fc35fa-5d4e-4104-bb8b-79cfae0a0074",
+  "idempotency_key": "dlj-arena2-frozen-10110012-t1",
+  "credits": 1,
+  "prompt": "Edit: keep everything in the input image exactly the same, including the composition, the camera, the framing, the straight floor line, the columns, the windows, the throne and the canvas. Change only: the throne room is now frozen over. Thick pale blue ice coats the columns and the throne, icicles hang from the arches and the banners, frost spreads over the walls, the windows are frosted white, the light turns cold and pale blue, and a few snowflakes drift in the air. The floor stays flat, open and clear, with a thin sheen of ice. Same art style. No characters, no people, no text.",
+  "note": "Boss 2 phase 2: the same throne room, frozen over",
+  "pipeline": {
+    "fit": "none",
+    "ground_row_px": 1219.5
+  }
+}

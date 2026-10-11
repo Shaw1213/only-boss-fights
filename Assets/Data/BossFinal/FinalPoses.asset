@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee2e6c86819c3548a6390a8e0922416, type: 3}
+  m_Name: FinalPoses
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.PoseSet
+  idleWorldHeight: 4.8
+  idle: {fileID: 21300000, guid: ab405a9274e06e54484bb50e033ddb5c, type: 3}
+  move:
+    frames:
+    - {fileID: 840450396, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: -549154650, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: -1792347838, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: 1143955561, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: 855271107, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: 109414333, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: 1883944195, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    - {fileID: -989263605, guid: e30fed2725c95cd4f8d06427b433055c, type: 3}
+    frameSeconds:
+    - 0.799
+    - 0.148
+    - 0.999
+    - 1.123
+    - 0.148
+    - 0.374
+    - 0.3
+    - 1.149
+    loop: 1
+    scale: 3.522
+    footfallsPerLoop: 2
+  moveCycleSpeed: 0.70494497
+  idleBreathAmount: 0.012
+  idleBreathRate: 1.4
+  dash: {fileID: 0}
+  charge: {fileID: 0}
+  parry: {fileID: 0}
+  hurt: {fileID: 21300000, guid: 0c00ed0d21b5f49438593d2ccc87d1d8, type: 3}
+  staggered: {fileID: 21300000, guid: 0c00ed0d21b5f49438593d2ccc87d1d8, type: 3}
+  dead: {fileID: 21300000, guid: 207b5028ca4ce3b44844c02d04b08c5a, type: 3}
+  phaseChange: {fileID: 21300000, guid: 98e50038b85bc6e4ea90c47c9ef7ed54, type: 3}

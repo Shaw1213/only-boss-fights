@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/King/king_cleave_windup.png",
+  "source": "ArtRaw/king/king-cleave-windup.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "fbd49656-9741-4e5a-88a0-b45b1e58f50a",
+  "idempotency_key": "dlj-king-cleave-windup-10102355-t1",
+  "note": "Royal Cleave windup (drawn 3% big)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 103.0,
+    "teal_blade_px": 156.7,
+    "scale": 0.6277,
+    "anchor_x": 566.0,
+    "output_size": [
+      720,
+      952
+    ],
+    "enclosed_gaps_removed": 0
+  }
+}

@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "1d0c1c35-feef-406a-9d35-a9b585ec9c05",
+  "conversation_id": "b29cee78-89aa-40e8-ae6c-7b260bd5fa25",
+  "status": "completed",
+  "asset": {
+    "asset_id": "1df3f455-535e-44b1-abdf-9ad6958a0902",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/1df3f455-535e-44b1-abdf-9ad6958a0902/asset"
+  },
+  "question": null,
+  "last_event_id": "21231",
+  "idempotency_key": "dlj-king-cast-10102355-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-cast.png"
+}

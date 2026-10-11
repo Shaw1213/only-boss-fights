@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Final/final_smash.png",
+  "source": "ArtRaw/final/final-smash.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "e2b7516e-3c8e-48e1-b1f0-fd1815a81a1e",
+  "idempotency_key": "dlj-final-smash-10110307-t1",
+  "note": "the landing crouch (also the take-off crouch and the slams' impact; drawn 21% big: helm + crown)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 121.0,
+    "teal_blade_px": 4.0,
+    "scale": 0.4169,
+    "anchor_x": 605.0,
+    "output_size": [
+      956,
+      664
+    ],
+    "enclosed_gaps_removed": 69105
+  }
+}

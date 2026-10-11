@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "13d8e8b5-6dd8-4370-ad8f-ba6405fd9b13",
+  "conversation_id": "cdb2ced6-70da-437d-b22d-4815c6f4036f",
+  "status": "completed",
+  "asset": {
+    "asset_id": "fb20db03-7078-4f65-9090-f28e07af665b",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/fb20db03-7078-4f65-9090-f28e07af665b/asset"
+  },
+  "question": null,
+  "last_event_id": "21377",
+  "idempotency_key": "dlj-king-floor-cast-10110002-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-floor-cast.png"
+}

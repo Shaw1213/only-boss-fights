@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/Knight/knight_hurt.png",
+  "source": "ArtRaw/knight/knight-hurt-r2.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "6ffcd5ff-9469-4d30-bc86-fd69286a77cd",
+  "idempotency_key": "dlj-knight-hurt-r2-t1",
+  "note": "hurt recoil; ruler = helm + shin average",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 247.0,
+    "teal_blade_px": null,
+    "scale": 0.4757,
+    "anchor_x": 546.7,
+    "output_size": [
+      764,
+      672
+    ],
+    "enclosed_gaps_removed": 5778
+  }
+}

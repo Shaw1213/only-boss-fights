@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ee2e6c86819c3548a6390a8e0922416, type: 3}
+  m_Name: HeroPoses
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.PoseSet
+  idleWorldHeight: 1.7512438
+  idle: {fileID: 21300000, guid: c5f1b41426bb6274aa103fcdef081497, type: 3}
+  move:
+    frames:
+    - {fileID: -1746114799, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: 1150731405, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: 2122729229, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: -963218649, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: 821779615, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: -38220182, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: 672478913, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    - {fileID: 2017639470, guid: 0c9485335b4c4f24f92df43e87cb2ed0, type: 3}
+    frameSeconds:
+    - 0.62
+    - 0.63
+    - 0.63
+    - 0.62
+    - 0.62
+    - 0.63
+    - 0.63
+    - 0.66
+    loop: 1
+    scale: 1.82
+    footfallsPerLoop: 2
+  moveCycleSpeed: 1.1
+  idleBreathAmount: 0.012
+  idleBreathRate: 2.4
+  dash: {fileID: 21300000, guid: 586508f0be08a6446af8b28418cf5b4b, type: 3}
+  charge: {fileID: 21300000, guid: bc921a19f09e8f44595c739d1a6c4501, type: 3}
+  parry: {fileID: 21300000, guid: 55b3a576fe61c14408caea8cd4895fba, type: 3}
+  hurt: {fileID: 21300000, guid: 7e630d27909d1f04086654559f0b767c, type: 3}
+  staggered: {fileID: 0}
+  dead: {fileID: 21300000, guid: ce7272a389ec6914ca00223f7da6c90d, type: 3}
+  phaseChange: {fileID: 0}

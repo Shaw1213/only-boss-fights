@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "746e72ea-8510-474b-99d6-8f26926a4492",
+  "conversation_id": "5cf8908e-a1a4-4ea1-966d-03ed334ab98d",
+  "status": "completed",
+  "asset": {
+    "asset_id": "0563bd5e-d212-477b-a573-b87496704b2a",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/0563bd5e-d212-477b-a573-b87496704b2a/asset"
+  },
+  "question": null,
+  "last_event_id": "21328",
+  "idempotency_key": "dlj-king-cleave-strike-10110002-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-cleave-strike.png"
+}

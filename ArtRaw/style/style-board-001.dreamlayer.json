@@ -1,0 +1,19 @@
+{
+  "asset": "ArtRaw/style/style-board-001.png",
+  "purpose": "Anime style board: the same knight in 4 anime styles (2x2) to pick the art style; not a final design",
+  "operation": "text_to_image",
+  "prompt_file": "ArtRaw/style/style-board-001.prompt.txt",
+  "reference_image": null,
+  "requested_aspect_ratio": "1:1",
+  "output_size": [2048, 2048],
+  "execution_id": "6cdcbc29-c694-4ed5-95df-1b387c813daa",
+  "conversation_id": "812d5179-dd2f-4af5-8a34-75fbc08ecc3d",
+  "asset_id": "5526bb8c-6618-494c-b9f3-7ead59bba6d6",
+  "idempotency_key": "dlj-style-board-001",
+  "timestamp": "2026-10-08",
+  "credits": 1,
+  "balance_after": 98,
+  "seconds_to_result": 24.7,
+  "client": "dreamlayer CLI 0.4.0-beta.4",
+  "verdict": "top-left panel chosen by Shawn as the locked art style (cropped to ArtRaw/style/style-anime-cel-ref.png); the knight design itself is not approved yet"
+}

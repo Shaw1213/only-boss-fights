@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "aa800573-6295-4a5e-805b-7189380adc64",
+  "conversation_id": "7d12b61c-408c-49af-8960-4b988c40a06d",
+  "status": "completed",
+  "asset": {
+    "asset_id": "db311119-ab6a-43f9-bb3e-bcb6dc52798a",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/db311119-ab6a-43f9-bb3e-bcb6dc52798a/asset"
+  },
+  "question": null,
+  "last_event_id": "21393",
+  "idempotency_key": "dlj-arena2-10110010-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\world\\arena2.png"
+}

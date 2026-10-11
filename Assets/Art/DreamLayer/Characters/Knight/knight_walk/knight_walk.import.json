@@ -1,0 +1,18 @@
+{
+  "source_zip": "Assets/Art/DreamLayer/Characters/Knight/knight_walk.zip",
+  "imported_utc": "2026-10-10T10:38:12.8451794Z",
+  "action": "custom",
+  "frames": 8,
+  "loop": true,
+  "total_seconds": 5.04,
+  "durations_ms": [620, 630, 630, 620, 620, 630, 630, 660],
+  "durations_60fps_frames": [37, 38, 38, 37, 37, 38, 38, 40],
+  "pivot": [0.342, 0.18],
+  "pixels_per_unit": 256,
+  "feet_baseline_spread_px": 0,
+  "horizontal_center_spread_px": 15,
+  "sheet": "Assets/Art/DreamLayer/Characters/Knight/knight_walk/knight_walk_sheet.png",
+  "clip": "Assets/Art/DreamLayer/Characters/Knight/knight_walk/knight_walk.anim",
+  "controller": "Assets/Art/DreamLayer/Characters/Knight/knight_walk/knight_walk.controller",
+  "warnings": ["duration_ms says 5042 ms but frame_durations_ms sum to 5040 ms; using the per-frame values.", "alignment is \"source_canvas\"; measured a feet pivot anyway because Characters/ uses feet pivots."]
+}

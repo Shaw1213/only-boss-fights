@@ -1,0 +1,13 @@
+{
+  "execution_id": "18001851-1ecb-451a-8053-7daae25b4e66",
+  "conversation_id": "080de026-a947-497a-8a39-6b34bd10bc45",
+  "status": "completed",
+  "asset": {
+    "asset_id": "4b84c3c5-1948-43a7-8988-8804a3918fc9",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/4b84c3c5-1948-43a7-8988-8804a3918fc9/asset"
+  },
+  "question": null,
+  "last_event_id": "22618",
+  "idempotency_key": "dlj-cover-10110511-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\cover\\cover.png"
+}

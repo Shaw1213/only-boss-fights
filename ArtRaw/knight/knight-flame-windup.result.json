@@ -1,0 +1,13 @@
+{
+  "execution_id": "6a9445cf-add9-4b4d-ade1-ceeffb500443",
+  "conversation_id": "69ca736f-7da0-499d-acd2-01aa46e8363d",
+  "status": "completed",
+  "asset": {
+    "asset_id": "4f14d60e-8b3d-4423-8ff9-29f0e14e690d",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/4f14d60e-8b3d-4423-8ff9-29f0e14e690d/asset"
+  },
+  "question": null,
+  "last_event_id": "18170",
+  "idempotency_key": "dlj-knight-flame-windup-10100249-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-flame-windup.png"
+}

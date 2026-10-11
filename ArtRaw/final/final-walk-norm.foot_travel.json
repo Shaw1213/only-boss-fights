@@ -1,0 +1,71 @@
+{
+  "source_zip": "final-walk-norm.zip",
+  "frames": 8,
+  "order": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "floor_row": 438,
+  "boot_rows": 31,
+  "travel_px": [
+    32,
+    0,
+    40,
+    45,
+    0,
+    15,
+    12,
+    46
+  ],
+  "landing_lift_px": [
+    5,
+    17,
+    9,
+    1,
+    20,
+    6,
+    12,
+    20
+  ],
+  "match_scores": [
+    0.606,
+    0.817,
+    0.989,
+    0.927,
+    0.872,
+    0.77,
+    0.92,
+    0.901
+  ],
+  "estimated": [
+    1
+  ],
+  "total_travel_px": 190,
+  "authored_durations_ms": [
+    620,
+    630,
+    630,
+    620,
+    620,
+    630,
+    630,
+    660
+  ],
+  "durations_ms": [
+    799,
+    148,
+    999,
+    1123,
+    148,
+    374,
+    300,
+    1149
+  ],
+  "note": "durations proportional to planted-foot travel to the next frame (min share 0.25 of the mean)"
+}

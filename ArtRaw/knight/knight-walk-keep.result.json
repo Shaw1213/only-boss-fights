@@ -1,0 +1,13 @@
+{
+  "execution_id": "11a7eaab-5962-46e0-82ab-1fda8cbb1b0c",
+  "conversation_id": "b4697a34-24b4-4437-a9cb-455eb04132d4",
+  "status": "completed",
+  "asset": {
+    "asset_id": "58874cff-d6c6-4730-93d0-4f6ad1897030",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/58874cff-d6c6-4730-93d0-4f6ad1897030/asset"
+  },
+  "question": null,
+  "last_event_id": "18146",
+  "idempotency_key": "dlj-knight-walk-keep-10100246-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-walk-keep.zip"
+}

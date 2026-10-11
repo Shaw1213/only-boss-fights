@@ -1,0 +1,22 @@
+{
+  "asset": "Assets/Art/DreamLayer/Characters/King/king_cast.png",
+  "source": "ArtRaw/king/king-cast.png",
+  "operation": "image_to_image (edit)",
+  "execution_id": "1d0c1c35-feef-406a-9d35-a9b585ec9c05",
+  "idempotency_key": "dlj-king-cast-10102355-t1",
+  "note": "Frost Lance / Volley cast, palm thrust at the hero (drawn 6% big)",
+  "mirrored": false,
+  "pipeline": {
+    "cutout": "Tools/clean_cutout.py (local, 0 credits)",
+    "normalize": "Tools/normalize_pose.py: ruler scale, hip-band anchor, feet on the bottom edge",
+    "ruler_px": 106.0,
+    "teal_blade_px": 247.3,
+    "scale": 0.61,
+    "anchor_x": 401.0,
+    "output_size": [
+      916,
+      864
+    ],
+    "enclosed_gaps_removed": 2921
+  }
+}

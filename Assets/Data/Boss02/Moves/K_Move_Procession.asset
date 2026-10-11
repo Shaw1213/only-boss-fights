@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e57dc4c5073b9d4ca7b9312db23a51d, type: 3}
+  m_Name: K_Move_Procession
+  m_EditorClassIdentifier: Assembly-CSharp::DreamLayerJam.BossMove
+  steps:
+  - {fileID: 11400000, guid: b34b3385764b93f4bbf93f64673478bf, type: 2}
+  - {fileID: 11400000, guid: 90147c67a78dc8a46a5e26d95ca3c0ad, type: 2}
+  - {fileID: 11400000, guid: fe88ab4960e96df4ca0d60d8a5bd847b, type: 2}
+  - {fileID: 11400000, guid: baac36d9d5c329c4b82256b6ffed4b75, type: 2}
+  preferredRange: 4.5
+  rangeTolerance: 2
+  weight: 0.9
+  fullParryStaggers: 0
+  lockFacing: 1

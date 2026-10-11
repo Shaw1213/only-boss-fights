@@ -1,0 +1,13 @@
+{
+  "execution_id": "82d143b3-99ee-415e-b86a-3bab7cf159f6",
+  "conversation_id": "832f54b5-0455-4508-a7c8-2e7d21841f88",
+  "status": "completed",
+  "asset": {
+    "asset_id": "60f90660-5b04-4107-8eec-777cf553c0c7",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/60f90660-5b04-4107-8eec-777cf553c0c7/asset"
+  },
+  "question": null,
+  "last_event_id": "15498",
+  "idempotency_key": "dlj-knight-defeated-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-defeated.png"
+}

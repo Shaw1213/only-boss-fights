@@ -1,0 +1,13 @@
+{
+  "execution_id": "87a2b397-8cf2-4578-97b2-6b658d98c450",
+  "conversation_id": "aeddd917-a707-4b13-b4f9-8bd2dd058e44",
+  "status": "completed",
+  "asset": {
+    "asset_id": "9124a97c-58ee-425c-989f-dfd9c9216755",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/9124a97c-58ee-425c-989f-dfd9c9216755/asset"
+  },
+  "question": null,
+  "last_event_id": "22166",
+  "idempotency_key": "dlj-final-ref-b-10110300-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\final\\final-ref-b.png"
+}

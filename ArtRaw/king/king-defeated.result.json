@@ -1,0 +1,13 @@
+﻿{
+  "execution_id": "ec8cc4c2-acbc-40dd-8889-9520c707d22f",
+  "conversation_id": "c27c203f-e04f-478e-8f18-32d51f1d5482",
+  "status": "completed",
+  "asset": {
+    "asset_id": "87e1cf05-7fc0-4d07-a05b-164bfdda4bbf",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/87e1cf05-7fc0-4d07-a05b-164bfdda4bbf/asset"
+  },
+  "question": null,
+  "last_event_id": "21351",
+  "idempotency_key": "dlj-king-defeated-10110002-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\king\\king-defeated.png"
+}

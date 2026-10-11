@@ -1,0 +1,13 @@
+{
+  "execution_id": "bb82b8b8-8e35-4042-9bb2-9d3674794485",
+  "conversation_id": "f4488143-a758-45d6-98b2-4455f6ffb02b",
+  "status": "completed",
+  "asset": {
+    "asset_id": "333afdf2-4e6b-434c-a4fd-ccca13b73037",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/333afdf2-4e6b-434c-a4fd-ccca13b73037/asset"
+  },
+  "question": null,
+  "last_event_id": "15401",
+  "idempotency_key": "dlj-hero-slash2-t1",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\hero\\hero-slash2.png"
+}

@@ -1,0 +1,13 @@
+{
+  "execution_id": "3b76b9a1-f09a-40ac-9f4d-2a8dcb3bc28c",
+  "conversation_id": "0398988a-f9b0-44cf-8c12-707dfcd21532",
+  "status": "completed",
+  "asset": {
+    "asset_id": "ff477c2c-2575-476e-b4fa-1dce15aa52ee",
+    "download_url": "https://api.dreamlayer.io/v1/image-jobs/ff477c2c-2575-476e-b4fa-1dce15aa52ee/asset"
+  },
+  "question": null,
+  "last_event_id": "14416",
+  "idempotency_key": "dlj-knight-cleave-windup-001",
+  "file": "F:\\Unity\\DreamLayer Jam\\ArtRaw\\knight\\knight-cleave-windup-001.png"
+}

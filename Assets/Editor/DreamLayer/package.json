@@ -1,0 +1,29 @@
+{
+  "name": "com.shaw1213.dreamlayer-unity",
+  "version": "1.0.0",
+  "displayName": "DreamLayer Tools (unofficial)",
+  "description": "Makes DreamLayer images and sprite sheets game-ready in Unity: sprite-sheet ZIPs become sliced sprites and animation clips timed by each frame's own duration, with feet pivots, per-folder WebGL import rules, provenance files and an editor window that generates through the DreamLayer CLI. A community tool, not made by DreamLayer.",
+  "unity": "6000.0",
+  "author": {
+    "name": "Shawn Zhang",
+    "url": "https://github.com/Shaw1213"
+  },
+  "license": "MIT",
+  "documentationUrl": "https://github.com/Shaw1213/only-boss-fights/tree/main/Assets/Editor/DreamLayer",
+  "keywords": ["dreamlayer", "sprite sheet", "importer", "2d", "animation", "ai art"],
+  "dependencies": {
+    "com.unity.2d.sprite": "1.0.0"
+  },
+  "samples": [
+    {
+      "displayName": "DreamLayer walk sample",
+      "description": "DreamLayer's own 7-frame walk sprite ZIP (MIT, DreamLayer AI).",
+      "path": "Samples~/WalkSample"
+    },
+    {
+      "displayName": "Hero idle (preset)",
+      "description": "An 8-frame idle made with DreamLayer's idle preset (background kept, removed locally with Tools~).",
+      "path": "Samples~/HeroIdle"
+    }
+  ]
+}
